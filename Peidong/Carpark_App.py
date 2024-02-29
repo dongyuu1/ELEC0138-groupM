@@ -35,8 +35,25 @@ def login():
         password = request.form['password']
         if username not in users or users[username]['password'] != password:
             return "Invalid username or password!"
-        return "Login successful!"
+        return redirect('/parking_register')
     return render_template('login.html')
+
+@app.route('/parking_register', methods=['GET', 'POST'])
+def parking_register():
+    if request.method == 'POST':
+
+
+
+        first_name = request.form['first_name']
+        postcode = request.form['postcode']
+        street_name = request.form['street_name']
+        start_time = request.form['start_time']
+        end_time = request.form['end_time']
+
+
+
+        return "Parking registration successful!"
+    return render_template('parking_register.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
