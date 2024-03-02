@@ -1,0 +1,1076 @@
+Restriction Type,Parking Spaces,Road Name,Postcode,Non-diesel Tariff,Diesel Tariff,Unique Identifier
+paid-for,3.0,Abbey Road,NW6 4SL,3.84,4.65,46043537
+paid-for,3.0,Abbey Road,NW6 4DL,3.84,4.65,46043543
+paid-for,3.0,Adelaide Road,NW3 3RY,3.84,4.65,46047167
+paid-for,2.0,Adelaide Road,NW3 3RY,3.84,4.65,46047166
+paid-for,7.0,Adelaide Road,NW3 3HH,3.84,4.65,46045860
+paid-for,3.0,Adelaide Road,NW3 3XX,3.84,4.65,46047165
+paid-for,4.0,Agar Grove,NW1 9GP,3.84,4.65,46132420
+paid-for,2.0,Agar Grove,NW1 9SY,3.84,4.65,46132422
+paid-for / resident permit holders,10.0,Ajax Road,NW6 1DU,2.38,2.89,46044070
+paid-for (buses),2.0,Albany Street,NW1 4DT,8.39,8.39,46047694
+paid-for,4.0,Albert Street,NW1 7NR,4.83,5.87,46131624
+paid-for / permit holders,4.0,Albert Street,NW1 7NE,4.83,5.87,46047840
+paid-for / permit holders,9.0,Albert Street,NW1 7NB,4.83,5.87,46048135
+paid-for,4.0,Albert Street,NW1 7RX,4.83,5.87,46131616
+paid-for / resident permit holders,4.0,Albert Street,NW1 7NR,4.83,5.87,46131623
+paid-for,2.0,Albert Street,NW1 7RP,4.83,5.87,46047543
+paid-for,4.0,Aldenham Street,NW1 1AS,4.83,5.87,46049503
+paid-for,5.0,Aldenham Street,NW1 1PS,4.83,5.87,46133900
+paid-for,2.0,Aldred Road,NW6 1AE,2.38,2.89,46044040
+paid-for / resident permit holders,8.0,Alexandra Place,NW8 0DY,3.84,4.65,46043445
+paid-for,3.0,Alvanley Gardens,NW6 1JD,3.84,4.65,46133883
+paid-for / resident permit holders,30.0,Alvanley Gardens,NW6 1JD,3.84,4.65,46044570
+paid-for,22.0,Alvanley Gardens,NW3 6HJ,3.84,4.65,46133885
+paid-for,3.0,Ampton Place,WC1X 0LZ,6.63,8.06,46043220
+paid-for,2.0,Argyle Square,WC1H 8AL,6.63,8.06,46043211
+paid-for,3.0,Argyle Square,WC1H 8AS,6.63,8.06,46043207
+paid-for,5.0,Argyle Street,WC1H 8EJ,6.63,8.06,46043213
+paid-for,3.0,Argyle Street,WC1H 8EE,6.63,8.06,46043206
+paid-for,4.0,Arlington Road,NW1 7HD,4.83,5.87,46048181
+paid-for,6.0,Arlington Road,NW1 7LL,4.83,5.87,46047754
+paid-for,2.0,Arlington Road,NW1 7HT,4.83,5.87,46047749
+paid-for,5.0,Arlington Road,NW1 7EX,4.83,5.87,46048134
+paid-for,10.0,Arlington Road,NW1 7EX,4.83,5.87,46048140
+paid-for,2.0,Arlington Road,NW1 7HL,4.83,5.87,46048178
+paid-for,4.0,Arlington Road,NW1 7RD,4.83,5.87,46047755
+paid-for / resident permit holders,2.0,Arlington Road,NW1 7HP,4.83,5.87,46127863
+paid-for,4.0,Arlington Road,NW1 7HP,4.83,5.87,46048132
+paid-for,3.0,Arlington Road,NW1 7HX,4.83,5.87,46047756
+paid-for / resident permit holders,3.0,Arlington Road,NW1 7LG,4.83,5.87,46134349
+paid-for,3.0,Arlington Road,NW1 7LD,4.83,5.87,46132871
+paid-for,4.0,Arlington Road,NW1 7ES,4.83,5.87,46132873
+paid-for,5.0,Augustus Street,NW1 3TH,4.83,5.87,46047647
+paid-for,3.0,Augustus Street,NW1 3TH,4.83,5.87,46047649
+paid-for,2.0,Back Hill,EC1R 5HT,6.63,8.06,46042823
+paid-for,1.0,Bainbridge Street,WC1A 1HB,6.63,8.06,46036172
+paid-for,2.0,Bainbridge Street,WC1A 1HB,6.63,8.06,46036173
+paid-for / permit holders,4.0,Barker Drive,NW1 0JW,4.83,5.87,46049632
+paid-for,6.0,Barnby Street,NW1 2RS,4.83,5.87,46049501
+paid-for,2.0,Barter Street,WC1A 2ED,6.63,8.06,46042702
+paid-for,2.0,Barter Street,WC1A 2AH,6.63,8.06,46042703
+paid-for,4.0,Bartholomew Road,NW1 9JJ,3.84,4.65,46048600
+paid-for,7.0,Bartholomew Road,NW5 2BJ,3.84,4.65,46045418
+paid-for,5.0,Bartholomew Road,NW5 2BJ,3.84,4.65,46045419
+paid-for,6.0,Bartholomew Villas,NW5 2LL,3.84,4.65,46048678
+paid-for,3.0,Bayham Street,NW1 0AT,4.83,5.87,46048149
+paid-for,8.0,Bayham Street,NW1 0EY,4.83,5.87,46047773
+paid-for,4.0,Bayham Street,NW1 0AA,4.83,5.87,46047799
+paid-for,7.0,Bayham Street,NW1 0BS,4.83,5.87,46128101
+paid-for,4.0,Bayham Street,NW1 0BD,4.83,5.87,46048146
+paid-for,1.0,Bayham Street,NW1 0AA,4.83,5.87,46047549
+paid-for,4.0,Bayham Street,NW1 0AB,4.83,5.87,46047792
+paid-for,6.0,Baynes Street,NW1 0TL,4.83,5.87,46049593
+paid-for,2.0,Bedford Avenue,WC1B 3GH,6.63,8.06,46129338
+paid-for,3.0,Bedford Place,WC1B 5AH,6.63,8.06,46035875
+paid-for,5.0,Bedford Place,WC1B 5JT,6.63,8.06,46133992
+paid-for,3.0,Bedford Place,WC1B 5JJ,6.63,8.06,46035878
+paid-for,1.0,Bedford Row,WC1R 4QR,6.63,8.06,46042958
+paid-for,6.0,Bedford Row,WC1R 4HE,6.63,8.06,46042837
+paid-for,2.0,Bedford Row,WC1R 4BZ,6.63,8.06,46042957
+paid-for,1.0,Bedford Row,WC1R 4QR,6.63,8.06,46042956
+paid-for,1.0,Bedford Row,WC1R 4BZ,6.63,8.06,46043053
+paid-for,6.0,Bedford Row,WC1R 4JH,6.63,8.06,46042783
+paid-for,7.0,Bedford Square,WC1B 3JS,6.63,8.06,46035932
+paid-for,8.0,Bedford Square,WC1B 3DR,6.63,8.06,46035933
+paid-for,8.0,Bedford Square,WC1B 3HN,6.63,8.06,46036285
+paid-for (buses),4.0,Bedford Way,WC1H 0DB,8.39,8.39,46128938
+paid-for (buses),1.0,Bedford Way,WC1H 0AL,8.39,8.39,46035889
+paid-for (buses),1.0,Bedford Way,WC1H 0AL,8.39,8.39,46036211
+paid-for,1.0,Bedford Way,WC1H 0AL,6.63,8.06,46036210
+paid-for,5.0,Bedford Way,WC1H 0AP,6.63,8.06,46035903
+paid-for,7.0,Bedford Way,WC1H 0AP,6.63,8.06,46035891
+paid-for / resident permit holders,5.0,Belmont Street,NW1 8HJ,3.84,4.65,46131714
+paid-for,3.0,Belmont Street,NW1 8HN,3.84,4.65,46045910
+paid-for / resident permit holders,5.0,Belmont Street,NW1 8HJ,3.84,4.65,46131713
+paid-for / resident permit holders,3.0,Belsize Grove,NW3 4TX,3.84,4.65,46133500
+paid-for,2.0,Belsize Lane,NW3 4QB,3.84,4.65,46048996
+paid-for,3.0,Belsize Lane,NW3 4PS,3.84,4.65,46049263
+paid-for,2.0,Belsize Lane,NW3 5AE,3.84,4.65,46049043
+paid-for,6.0,Belsize Lane,NW3 5AS,3.84,4.65,46049252
+paid-for,4.0,Belsize Lane,NW3 5BJ,3.84,4.65,46035622
+paid-for,5.0,Belsize Lane,NW3 5AR,3.84,4.65,46035579
+paid-for,7.0,Belsize Park Gardens,NW3 4NJ,3.84,4.65,46047354
+paid-for,4.0,Belsize Park Gardens,NW3 4LB,3.84,4.65,46134310
+paid-for,4.0,Belsize Road,NW6 4BT,3.84,4.65,46043507
+paid-for,2.0,Belsize Road,NW6 4DT,3.84,4.65,46133262
+paid-for,2.0,Belsize Road,NW6 4AD,3.84,4.65,46043701
+paid-for,4.0,Belsize Road,NW6 4AA,3.84,4.65,46043509
+paid-for,3.0,Belsize Road,NW6 4RP,3.84,4.65,46046656
+paid-for,2.0,Belsize Road,NW6 4BT,3.84,4.65,46043570
+paid-for,3.0,Belsize Road,NW6 4AD,3.84,4.65,46043544
+paid-for,2.0,Belsize Terrace,NW3 4AX,3.84,4.65,46132240
+paid-for,8.0,Belsize Terrace,NW3 4AX,3.84,4.65,46047395
+paid-for,2.0,Bernard Street,WC1N 1LJ,6.63,8.06,46036282
+paid-for,8.0,Bernard Street,WC1N 1LN,6.63,8.06,46036209
+paid-for / resident permit holders,8.0,Bertram Street,N19 5DQ,3.84,4.65,46044836
+paid-for,3.0,Bidborough Street,WC1H 9NP,6.63,8.06,46133260
+paid-for,4.0,Bidborough Street,WC1H 9BB,6.63,8.06,46043128
+paid-for,2.0,Bidborough Street,WC1H 9BB,6.63,8.06,46043130
+paid-for,3.0,Birchington Road,NW6 4LH,3.84,4.65,46043662
+paid-for,5.0,Blackburn Road,NW6 1SA,3.84,4.65,46044401
+paid-for / resident permit holders,1.0,Bloomsbury Place,WC1A 2QL,6.63,8.06,46128344
+paid-for / resident permit holders,1.0,Bloomsbury Square,WC1A 2PJ,6.63,8.06,46128343
+paid-for,3.0,Bloomsbury Square,WC1A 2NS,6.63,8.06,46036311
+paid-for,6.0,Bonny Street,NW1 9PE,4.83,5.87,46132182
+paid-for,1.0,Boswell Street,WC1N 3PZ,6.63,8.06,46042795
+paid-for,4.0,Boswell Street,WC1N 3PZ,6.63,8.06,46042794
+paid-for,3.0,Boundary Road,NW8 0RX,3.84,4.65,46046659
+paid-for / permit holders,7.0,Boundary Road,NW8 0RH,3.84,4.65,46043451
+paid-for,4.0,Boundary Road,NW8 0HG,3.84,4.65,46043575
+paid-for,1.0,Brecknock Road,N7 0BT,3.84,4.65,46045605
+paid-for,2.0,Brecknock Road,N7 0FL,3.84,4.65,46045468
+paid-for / permit holders,4.0,Brecknock Road,N19 5AA,3.84,4.65,46045276
+loading / paid-for,4.0,Brecknock Road,N7 0BL,3.84,4.65,46045473
+paid-for,6.0,Brecknock Road,N7 0BL,3.84,4.65,46045474
+paid-for,3.0,Brecknock Road,N7 0BT,3.84,4.65,46130169
+paid-for,4.0,Britannia Street,WC1X 9JF,6.63,8.06,46043221
+paid-for,2.0,Britannia Street,WC1X 9JG,6.63,8.06,46043201
+paid-for,3.0,Britannia Street,WC1X 8BG,6.63,8.06,46043345
+paid-for / resident permit holders,7.0,Broadhurst Gardens,NW6 3QT,3.84,4.65,46046708
+paid-for / resident permit holders,2.0,Broadhurst Gardens,NW6 3AU,3.84,4.65,46134804
+paid-for / permit holders,18.0,Broadhurst Gardens,NW6 3BQ,3.84,4.65,46044244
+paid-for / resident permit holders,8.0,Broadhurst Gardens,NW6 3QT,3.84,4.65,46046537
+paid-for,4.0,Broadhurst Gardens,NW6 3BQ,3.84,4.65,46134163
+paid-for,4.0,Broadhurst Gardens,NW6 3BS,3.84,4.65,46046538
+paid-for / permit holders,3.0,Broadhurst Gardens,NW6 3AU,3.84,4.65,46044241
+paid-for / resident permit holders,2.0,Broomsleigh Street,NW6 1NH,2.38,2.89,46044646
+paid-for / resident permit holders,4.0,Broomsleigh Street,NW6 1NH,2.38,2.89,46044233
+paid-for,1.0,Buck Street,NW1 8NS,4.83,5.87,46132174
+paid-for,6.0,Buck Street,NW1 9NR,4.83,5.87,46042317
+paid-for,1.0,Bucknall Street,WC1A 1DE,6.63,8.06,46042734
+paid-for,2.0,Bucknall Street,WC2H 8AJ,6.63,8.06,46042735
+paid-for / permit holders,5.0,Burgess Hill,NW2 2BY,2.38,2.89,46044199
+paid-for,4.0,Burghley Road,NW5 1UD,3.84,4.65,46045488
+paid-for / permit holders,2.0,Burrard Road,NW6 1DT,2.38,2.89,46130220
+paid-for,3.0,Burton Street,WC1H 9AL,6.63,8.06,46043302
+paid-for,2.0,Burton Street,WC1H 9AH,6.63,8.06,46043301
+paid-for,1.0,Bury Place,WC1A 2JU,6.63,8.06,46042692
+paid-for,5.0,Camden Park Road,NW1 9BG,3.84,4.65,46048488
+paid-for,4.0,Camden Square,NW1 9XB,3.84,4.65,46048439
+paid-for,10.0,Camden Square,NW1 9XB,3.84,4.65,46048438
+paid-for,7.0,Camden Street,NW1 9PT,4.83,5.87,46048296
+paid-for,2.0,Camden Street,NW1 0HN,4.83,5.87,46049618
+paid-for,3.0,Camden Street,NW1 0LE,4.83,5.87,46049609
+paid-for,3.0,Camden Street,NW1 0LE,4.83,5.87,46049608
+paid-for,2.0,Camden Street,NW1 0EG,4.83,5.87,46049619
+paid-for,3.0,Camden Street,NW1 0JA,4.83,5.87,46047960
+paid-for,3.0,Camden Street,NW1 9PT,4.83,5.87,46048295
+paid-for,3.0,Camden Street,NW1 9PA,4.83,5.87,46048297
+paid-for,5.0,Camden Terrace,NW1 9BP,3.84,4.65,46048479
+paid-for / permit holders,6.0,Camley Street,NW1 0XF,4.83,5.87,46131606
+paid-for / permit holders,6.0,Camley Street,NW1 0XL,4.83,5.87,46126634
+paid-for,7.0,Carey Street,WC2A 2JB,6.63,8.06,46042711
+paid-for,3.0,Cartwright Gardens,WC1H 9EN,6.63,8.06,46133035
+paid-for,3.0,Castle Road,NW1 8SX,3.84,4.65,46045537
+paid-for / permit holders,7.0,Castle Road,NW1 8PR,3.84,4.65,46048279
+paid-for,2.0,Castle Road,NW1 8PR,3.84,4.65,46045552
+paid-for,2.0,Castlehaven Road,NW1 8QD,3.84,4.65,46134830
+paid-for,3.0,Castlehaven Road,NW1 8QU,4.83,5.87,46047917
+paid-for,3.0,Castlehaven Road,NW1 8SJ,3.84,4.65,46045556
+paid-for,2.0,Castlehaven Road,NW1 8PU,3.84,4.65,46048272
+paid-for,4.0,Castlehaven Road,NW1 8QB,3.84,4.65,46134832
+paid-for,1.0,Castlehaven Road,NW1 8QU,4.83,5.87,46132179
+paid-for,2.0,Castlehaven Road,NW1 8PX,3.84,4.65,46048266
+paid-for,8.0,Castlehaven Road,NW1 8RJ,3.84,4.65,46048245
+paid-for,1.0,Catton Street,WC1B 4AE,6.63,8.06,46042992
+paid-for,3.0,Caversham Road,NW5 2DX,3.84,4.65,46128067
+paid-for,2.0,Caversham Road,NW5 2DX,3.84,4.65,46128065
+paid-for,2.0,Caversham Road,NW5 2DX,3.84,4.65,46128069
+paid-for / permit holders,6.0,Chalcot Road,NW1 8JL,4.83,5.87,46048089
+paid-for / permit holders,15.0,Chalcot Road,NW1 8LL,4.83,5.87,46048016
+paid-for / permit holders,5.0,Chalcot Road,NW1 8LH,4.83,5.87,46048093
+paid-for / permit holders,6.0,Chalcot Road,NW1 8LY,4.83,5.87,46048094
+paid-for / permit holders,3.0,Chalcot Road,NW1 8JL,4.83,5.87,46048090
+paid-for / permit holders,12.0,Chalcot Road,NW1 8LS,4.83,5.87,46048015
+paid-for / permit holders,29.0,Chalcot Road,NW1 8LH,4.83,5.87,46048091
+loading / paid-for,3.0,Chalk Farm Road,NW1 8EH,3.84,4.65,46131711
+paid-for,5.0,Chalton Street,NW1 1QU,4.83,5.87,46049507
+paid-for,4.0,Chalton Street,NW1 2AL,4.83,5.87,46049550
+paid-for,3.0,Chalton Street,NW1 1PA,4.83,5.87,46049509
+paid-for / permit holders,3.0,Chalton Street,NW1 1HS,4.83,5.87,46049554
+paid-for,4.0,Chalton Street,NW1 1NP,4.83,5.87,46049452
+paid-for,4.0,Chalton Street,NW1 1TU,4.83,5.87,46049627
+paid-for,6.0,Chalton Street,NW1 1JB,4.83,5.87,46049553
+paid-for,3.0,Chalton Street,NW1 1JD,4.83,5.87,46049552
+paid-for,6.0,Chalton Street,NW1 1SP,4.83,5.87,46049534
+paid-for,4.0,Chalton Street,NW1 1JD,4.83,5.87,46049551
+paid-for,3.0,Chalton Street,NW1 1TU,4.83,5.87,46049451
+paid-for,3.0,Charlotte Street,W1T 4PP,6.63,8.06,46035801
+paid-for,5.0,Charlotte Street,W1T 4DF,6.63,8.06,46036121
+paid-for,2.0,Charlotte Street,W1T 2NS,6.63,8.06,46035942
+paid-for,9.0,Charrington Street,NW1 1RS,4.83,5.87,46049589
+paid-for,6.0,Charrington Street,NW1 1RD,4.83,5.87,46049579
+paid-for,1.0,Chenies Street,WC1E 7ET,6.63,8.06,46131802
+paid-for,2.0,Chenies Street,WC1E 7AP,6.63,8.06,46131803
+paid-for,6.0,Chenies Street,WC1E 7PA,6.63,8.06,46131310
+paid-for,1.0,Chenies Street,WC1E 7EY,6.63,8.06,46036067
+paid-for / resident permit holders,4.0,Chester Road,N19 5BU,3.84,4.65,46045054
+paid-for / permit holders,4.0,Chester Road,N19 5BZ,3.84,4.65,46127053
+paid-for / resident permit holders,12.0,Chetwynd Road,NW5 1BU,3.84,4.65,46044902
+paid-for,5.0,Chitty Street,W1T 4QS,6.63,8.06,46035917
+paid-for,4.0,Church Row,NW3 6UU,4.83,5.87,46034960
+paid-for,3.0,Church Row,NW3 6UR,4.83,5.87,46133061
+paid-for,6.0,Church Row,NW3 6UU,4.83,5.87,46034961
+paid-for,4.0,Church Row,NW3 6UU,4.83,5.87,46034957
+paid-for,1.0,Cleveland Street,W1T 6AB,6.63,8.06,46036043
+paid-for,1.0,Cleveland Street,W1T 6PQ,6.63,8.06,46134727
+paid-for,3.0,Cleveland Street,W1T 6NL,6.63,8.06,46036030
+paid-for,6.0,Constantine Road,NW3 2LL,3.84,4.65,46046285
+paid-for,2.0,Conway Street,W1T 6BN,6.63,8.06,46036027
+paid-for,1.0,Conway Street,W1T 6BN,6.63,8.06,46036028
+paid-for,2.0,Coram Street,WC1N 1HA,6.63,8.06,46036192
+paid-for,2.0,Cotleigh Road,NW6 2NP,2.38,2.89,46043643
+paid-for,7.0,Cranleigh Street,NW1 1PH,4.83,5.87,46049513
+paid-for,5.0,Crestfield Street,WC1H 8AT,6.63,8.06,46043210
+paid-for / resident permit holders,3.0,Croftdown Road,N19 5BU,3.84,4.65,46044841
+paid-for / resident permit holders,5.0,Croftdown Road,NW5 1HF,3.84,4.65,46045115
+paid-for / resident permit holders,4.0,Croftdown Road,NW5 1HF,3.84,4.65,46044772
+loading / paid-for,5.0,Crogsland Road,NW1 8QJ,3.84,4.65,46131712
+paid-for,3.0,Cromer Street,WC1H 8LP,6.63,8.06,46043080
+paid-for,4.0,Cromer Street,WC1H 9PA,6.63,8.06,46043215
+paid-for,3.0,Crowndale Road,NW1 1TN,4.83,5.87,46132290
+paid-for,4.0,Daleham Gardens,NW3 5DE,3.84,4.65,46035574
+paid-for,4.0,Daleham Gardens,NW3 5AU,3.84,4.65,46128580
+paid-for,1.0,Dane Street,WC1R 4QF,6.63,8.06,46042564
+paid-for / resident permit holders,7.0,Dartmouth Park Avenue,NW5 1JP,3.84,4.65,46045050
+paid-for / resident permit holders,2.0,Dartmouth Park Road,NW5 1JB,3.84,4.65,46127663
+paid-for,3.0,Denmark Street,WC2H 8NJ,6.63,8.06,46134750
+paid-for / resident permit holders,8.0,Dennington Park Road,NW6 1BA,3.84,4.65,46044372
+paid-for,7.0,Dennington Park Road,NW6 1XN,3.84,4.65,46044640
+paid-for,3.0,Dombey Street,WC1N 3PD,6.63,8.06,46042798
+paid-for,3.0,Doric Way,NW1 1LB,4.83,5.87,46049336
+paid-for / resident permit holders,6.0,Dornfell Street,NW6 1NN,2.38,2.89,46044034
+paid-for,2.0,Doughty Street,WC1N 2JS,6.63,8.06,46042516
+paid-for / resident permit holders,4.0,Doughty Street,WC1N 2JT,6.63,8.06,46042515
+paid-for / resident permit holders,2.0,Doughty Street,WC1N 2JT,6.63,8.06,46042812
+paid-for / resident permit holders,7.0,Doughty Street,WC1N 2AA,6.63,8.06,46043119
+paid-for / resident permit holders,5.0,Doughty Street,WC1N 2AA,6.63,8.06,46043120
+paid-for / resident permit holders,3.0,Doughty Street,WC1N 2LH,6.63,8.06,46042813
+paid-for / resident permit holders,1.0,Doughty Street,WC1N 2AA,6.63,8.06,46043286
+paid-for,5.0,Downshire Hill,NW3 1TH,4.83,5.87,46048885
+paid-for,1.0,Downshire Hill,NW3 2RJ,4.83,5.87,46132883
+paid-for,2.0,Downshire Hill,NW3 2RJ,4.83,5.87,46048886
+paid-for,5.0,Downshire Hill,NW3 1PA,4.83,5.87,46048903
+paid-for,4.0,Downshire Hill,NW3 1PA,4.83,5.87,46049100
+paid-for,9.0,Downshire Hill,NW3 1TH,4.83,5.87,46049007
+paid-for,1.0,Downshire Hill,NW3 1NH,4.83,5.87,46048881
+paid-for,2.0,Drummond Crescent,NW1 1LD,4.83,5.87,46049529
+paid-for,2.0,Drummond Street,NW1 3HP,4.83,5.87,46133927
+paid-for,5.0,Drummond Street,NW1 2HL,4.83,5.87,46047523
+paid-for,2.0,Drummond Street,NW1 3FG,4.83,5.87,46047690
+paid-for,2.0,Drummond Street,NW1 3FF,4.83,5.87,46047689
+paid-for,3.0,Drummond Street,NW1 2HL,4.83,5.87,46047524
+paid-for,2.0,Drummond Street,NW1 2HL,4.83,5.87,46047726
+paid-for,2.0,Drummond Street,NW1 3FF,4.83,5.87,46047812
+paid-for,1.0,Drummond Street,NW1 3FF,4.83,5.87,46131600
+paid-for,4.0,Drury Lane,WC2B 5PF,6.63,8.06,46043046
+paid-for / permit holders,5.0,Dumpton Place,NW1 8JB,4.83,5.87,46047999
+paid-for / permit holders,2.0,Dumpton Place,NW1 8JB,4.83,5.87,46047998
+paid-for,2.0,Eagle Street,WC1R 4NY,6.63,8.06,46042565
+paid-for,2.0,Eagle Street,WC1R 4FS,6.63,8.06,46042948
+paid-for,2.0,Ebbsfleet Road,NW2 3EP,2.38,2.89,46043812
+paid-for,3.0,Ebbsfleet Road,NW2 3EL,2.38,2.89,46043813
+paid-for,2.0,Elm Street,WC1X 0BD,6.63,8.06,46042828
+paid-for / permit holders,8.0,Elsworthy Rise,NW3 3SE,4.83,5.87,46129733
+paid-for / permit holders,9.0,Elsworthy Terrace,NW3 3DR,4.83,5.87,46046898
+paid-for / permit holders,15.0,Elsworthy Terrace,NW3 3DR,4.83,5.87,46046899
+paid-for,3.0,Endell Street,WC2H 9RE,6.63,8.06,46042756
+paid-for,3.0,Endell Street,WC2H 9BB,6.63,8.06,46042759
+paid-for,1.0,Endsleigh Gardens,WC1H 0EG,6.63,8.06,46131296
+paid-for,4.0,Endsleigh Gardens,WC1H 0QB,6.63,8.06,46036216
+paid-for,3.0,Endsleigh Gardens,NW1 2BJ,6.63,8.06,46036217
+paid-for,5.0,Endsleigh Street,WC1H 0DH,6.63,8.06,46035896
+paid-for,1.0,Endsleigh Street,WC1H 9HG,6.63,8.06,46036218
+paid-for,5.0,Endsleigh Street,WC1H 0EH,6.63,8.06,46036238
+paid-for,9.0,England's Lane,NW3 4UE,3.84,4.65,46047160
+paid-for / resident permit holders,4.0,England's Lane,NW3 4RP,3.84,4.65,46133490
+paid-for,2.0,England's Lane,NW3 4YD,3.84,4.65,46047159
+paid-for,10.0,England's Lane,NW3 4TG,3.84,4.65,46047161
+paid-for / permit holders,1.0,Erskine Road,NW1 8UT,4.83,5.87,46134498
+paid-for / permit holders,2.0,Erskine Road,NW3 3AJ,4.83,5.87,46048051
+paid-for / permit holders,2.0,Erskine Road,NW3 3AJ,4.83,5.87,46134591
+paid-for / permit holders,1.0,Erskine Road,NW3 3AJ,4.83,5.87,46134495
+paid-for / permit holders,4.0,Erskine Road,NW3 3AJ,4.83,5.87,46134593
+paid-for / permit holders,4.0,Erskine Road,NW1 8UT,4.83,5.87,46048054
+paid-for,4.0,Eton Avenue,NW3 3ET,3.84,4.65,46047332
+paid-for,3.0,Eton Avenue,NW3 3HY,3.84,4.65,46047432
+paid-for,3.0,Eton Avenue,NW3 3HJ,3.84,4.65,46047323
+paid-for,6.0,Eton Road,NW3 4SU,3.84,4.65,46045867
+paid-for / resident permit holders,3.0,Eton Road,NW3 4SN,3.84,4.65,46133484
+paid-for / resident permit holders,2.0,Eton Road,NW3 4SN,3.84,4.65,46133486
+paid-for,2.0,Eton Road,NW3 4SN,3.84,4.65,46133485
+paid-for,2.0,Euston Street,NW1 2EZ,4.83,5.87,46047711
+paid-for,2.0,Euston Street,NW1 2EZ,4.83,5.87,46047710
+paid-for,9.0,Eversholt Street,NW1 1BE,4.83,5.87,46131586
+paid-for,1.0,Eversholt Street,NW1 1BA,4.83,5.87,46131585
+paid-for / resident permit holders,17.0,Fairfax Road,NW6 4EH,3.84,4.65,46046929
+paid-for / resident permit holders,16.0,Fairfax Road,NW6 4EB,3.84,4.65,46046937
+paid-for,1.0,Fairhazel Gardens,NW6 3QG,3.84,4.65,46043601
+paid-for / resident permit holders,4.0,Fairhazel Gardens,NW6 3SG,3.84,4.65,46133103
+paid-for,3.0,Fairhazel Gardens,NW6 3QE,3.84,4.65,46046811
+paid-for / resident permit holders,5.0,Fairhazel Gardens,NW6 3QE,3.84,4.65,46133282
+paid-for,3.0,Falkland Road,NW5 2ET,3.84,4.65,46045177
+paid-for,2.0,Fawley Road,NW6 1UY,3.84,4.65,46133052
+paid-for,4.0,Fawley Road,NW6 1TA,3.84,4.65,46044619
+paid-for,5.0,Fellows Road,NW3 3NR,3.84,4.65,46047287
+paid-for,2.0,Ferdinand Place,NW1 8EE,3.84,4.65,46045742
+paid-for,1.0,Ferdinand Place,NW1 8DU,3.84,4.65,46045743
+loading / paid-for,7.0,Ferdinand Street,NW1 8ES,3.84,4.65,46131715
+paid-for / resident permit holders,5.0,Ferdinand Street,NW1 8ED,3.84,4.65,46131716
+paid-for,5.0,Fisher Street,WC1V 6NY,6.63,8.06,46042511
+paid-for,2.0,Fisher Street,WC1B 4AE,6.63,8.06,46042782
+paid-for,12.0,Fitzjohn's Avenue,NW3 6NT,4.83,5.87,46048844
+paid-for,2.0,Fitzjohn's Avenue,NW3 6NX,4.83,5.87,46048843
+paid-for,10.0,Fitzjohn's Avenue,NW3 6NR,4.83,5.87,46048845
+paid-for,5.0,Fitzjohn's Avenue,NW3 5BA,3.84,4.65,46035692
+paid-for,4.0,Fitzjohn's Avenue,NW3 5BA,3.84,4.65,46128578
+paid-for,11.0,Fitzjohn's Avenue,NW3 5LS,4.83,5.87,46048963
+paid-for,1.0,Fitzroy Street,W1T 5BS,6.63,8.06,46133904
+paid-for,5.0,Fitzroy Street,W1T 4BL,6.63,8.06,46036100
+paid-for,3.0,Flaxman Terrace,WC1H 9AR,6.63,8.06,46134579
+paid-for,4.0,Flaxman Terrace,WC1H 9AW,6.63,8.06,46043289
+paid-for,5.0,Fleet Road,NW3 2QX,3.84,4.65,46133248
+paid-for,6.0,Fleet Road,NW3 2DG,3.84,4.65,46046280
+paid-for,3.0,Fleet Road,NW3 2DG,3.84,4.65,46131396
+paid-for / permit holders,3.0,Fortess Road,NW5 1AG,3.84,4.65,46045379
+paid-for / permit holders,3.0,Fortess Road,NW5 1AE,3.84,4.65,46045380
+paid-for,3.0,Fortess Road,NW5 2HP,3.84,4.65,46045598
+paid-for,3.0,Fortess Road,NW5 2HL,3.84,4.65,46045498
+paid-for / permit holders,2.0,Fortess Road,NW5 2HJ,3.84,4.65,46045403
+paid-for,3.0,Fortess Road,NW5 2HP,3.84,4.65,46045171
+paid-for,3.0,Fortess Walk,NW5 2EU,3.84,4.65,46045176
+paid-for / resident permit holders,4.0,Fortune Green Road,NW6 1DP,2.38,2.89,46044011
+paid-for,4.0,Fortune Green Road,NW6 1DS,2.38,2.89,46043998
+paid-for,2.0,Fortune Green Road,NW6 1DH,2.38,2.89,46044228
+paid-for / resident permit holders,7.0,Fortune Green Road,NW6 1DJ,2.38,2.89,46044014
+paid-for / resident permit holders,4.0,Fortune Green Road,NW6 1DF,2.38,2.89,46133048
+paid-for,2.0,Frederick Street,WC1X 0NF,6.63,8.06,46043219
+paid-for,2.0,Frideswide Place,NW5 2AA,3.84,4.65,46132435
+paid-for,5.0,Frideswide Place,NW5 2AA,3.84,4.65,46045154
+paid-for,7.0,Frognal,NW3 6XR,3.84,4.65,46034983
+paid-for,4.0,Frognal,NW3 6AP,3.84,4.65,46035637
+paid-for,4.0,Frognal,NW3 6YD,3.84,4.65,46127559
+paid-for,2.0,Frognal,NW3 6YD,3.84,4.65,46133063
+paid-for,2.0,Gaisford Street,NW5 2AD,3.84,4.65,46130308
+paid-for,5.0,Gaisford Street,NW5 2EA,3.84,4.65,46132168
+paid-for,1.0,Gascony Avenue,NW6 4JL,2.38,2.89,46043395
+paid-for,1.0,Gayton Road,NW3 1QW,4.83,5.87,46133587
+paid-for,3.0,Gayton Road,NW3 1QW,4.83,5.87,46048733
+paid-for,3.0,Georgiana Street,NW1 0EA,4.83,5.87,46047976
+paid-for,2.0,Glenloch Road,NW3 4QS,3.84,4.65,46047117
+paid-for / permit holders,8.0,Gloucester Avenue,NW1 8HX,4.83,5.87,46048065
+paid-for / permit holders,6.0,Gloucester Avenue,NW1 8JA,4.83,5.87,46048059
+paid-for / permit holders,40.0,Gloucester Avenue,NW1 8LA,4.83,5.87,46048062
+paid-for / permit holders,11.0,Gloucester Avenue,NW1 8JH,4.83,5.87,46048312
+paid-for / permit holders,13.0,Gloucester Avenue,NW1 8JA,4.83,5.87,46048061
+paid-for / permit holders,2.0,Gloucester Avenue,NW1 8HX,4.83,5.87,46048064
+paid-for / permit holders,6.0,Gloucester Avenue,NW1 8HX,4.83,5.87,46048063
+paid-for / permit holders,7.0,Gloucester Avenue,NW1 8LD,4.83,5.87,46048073
+paid-for / permit holders,5.0,Gloucester Avenue,NW1 8JA,4.83,5.87,46048060
+paid-for,6.0,Goldhurst Terrace,NW6 3HY,3.84,4.65,46046758
+paid-for / resident permit holders,3.0,Goldhurst Terrace,NW6 3HY,3.84,4.65,46128636
+paid-for,6.0,Goldington Crescent,NW1 1UA,4.83,5.87,46131608
+paid-for,5.0,Goldington Street,NW1 1UB,4.83,5.87,46128434
+paid-for,3.0,Goldington Street,NW1 1UB,4.83,5.87,46049575
+paid-for / resident permit holders,5.0,Gondar Gardens,NW6 1NU,2.38,2.89,46044235
+paid-for,1.0,Goodge Place,W1T 4SQ,6.63,8.06,46035781
+paid-for,3.0,Goodge Place,W1T 4SF,6.63,8.06,46036283
+paid-for,4.0,Gordon House Road,NW5 1NJ,3.84,4.65,46044949
+paid-for,5.0,Gordon Square,WC1H 0AG,6.63,8.06,46036233
+paid-for,10.0,Gordon Square,WC1H 0AT,6.63,8.06,46036223
+paid-for,3.0,Gordon Street,WC1H 0AY,6.63,8.06,46036257
+paid-for,3.0,Gordon Street,WC1H 0AH,6.63,8.06,46133300
+paid-for,5.0,Gordon Street,WC1H 0AH,6.63,8.06,46036220
+paid-for,2.0,Gough Street,WC1X 0BD,6.63,8.06,46131131
+paid-for,4.0,Gough Street,WC1X 0BF,6.63,8.06,46042831
+paid-for,2.0,Gower Place,WC1H 0AY,6.63,8.06,46126629
+paid-for,2.0,Gower Place,WC1E 6BN,6.63,8.06,46126628
+paid-for,1.0,Grafton Mews,W1T 5JF,6.63,8.06,46035804
+paid-for,2.0,Grafton Road,NW5 4BB,3.84,4.65,46045774
+paid-for,2.0,Grafton Road,NW5 4BB,3.84,4.65,46045775
+paid-for,2.0,Grafton Road,NW5 3EJ,3.84,4.65,46045591
+paid-for,4.0,Grafton Road,NW5 4BB,3.84,4.65,46046396
+paid-for,3.0,Grafton Road,NW5 4RJ,3.84,4.65,46045772
+paid-for,5.0,Grafton Way,WC1E 6DH,6.63,8.06,46129359
+paid-for,10.0,Grafton Way,W1T 7NE,6.63,8.06,46129355
+paid-for,5.0,Granary Street,N1C 4DU,4.83,5.87,46049591
+paid-for,1.0,Grangeway,NW6 2BT,2.38,2.89,46043389
+paid-for,1.0,Grangeway,NW6 2FF,2.38,2.89,46043573
+paid-for,2.0,Grangeway,NW6 2FF,2.38,2.89,46043386
+paid-for / resident permit holders,9.0,Grangeway,NW6 2FF,2.38,2.89,46043390
+paid-for / resident permit holders,3.0,Great James Street,WC1N 3DA,6.63,8.06,46133516
+paid-for,3.0,Great Ormond Street,WC1N 3RB,6.63,8.06,46042804
+paid-for,1.0,Great Ormond Street,WC1N 3HR,6.63,8.06,46127321
+paid-for,1.0,Great Ormond Street,WC1N 3JL,6.63,8.06,46127156
+paid-for,2.0,Great Ormond Street,WC1N 3HZ,6.63,8.06,46043004
+paid-for,3.0,Great Ormond Street,WC1N 3JQ,6.63,8.06,46042802
+paid-for,5.0,Great Ormond Street,WC1N 3HR,6.63,8.06,46042801
+paid-for,2.0,Great Ormond Street,WC1N 3HR,6.63,8.06,46042676
+paid-for,3.0,Great Queen Street,WC2B 5BH,6.63,8.06,46042725
+paid-for / resident permit holders,4.0,Great Queen Street,WC2B 5AZ,6.63,8.06,46134522
+paid-for,4.0,Great Russell Street,WC1B 3RY,6.63,8.06,46131277
+paid-for,4.0,Great Russell Street,WC1B 3BG,6.63,8.06,46035861
+paid-for,1.0,Great Russell Street,WC1B 3NB,6.63,8.06,46131275
+paid-for / resident permit holders,3.0,Greenaway Gardens,NW3 7RD,3.84,4.65,46035720
+paid-for,18.0,Greenhill,NW3 1RG,4.83,5.87,46048846
+paid-for,2.0,Greenland Place,NW1 0AP,4.83,5.87,46048159
+paid-for,3.0,Greenland Place,NW1 0AP,4.83,5.87,46048158
+paid-for,5.0,Greenland Road,NW1 0AU,4.83,5.87,46047951
+paid-for / permit holders,7.0,Greenland Road,NW1 0AX,4.83,5.87,46047894
+paid-for,3.0,Greenland Street,NW1 0ND,4.83,5.87,46128612
+paid-for,3.0,Greenwood Place,NW5 1RT,3.84,4.65,46128545
+paid-for,3.0,Greenwood Place,NW5 1JY,3.84,4.65,46134036
+paid-for,4.0,Grenville Street,WC1N 1DG,6.63,8.06,46130753
+paid-for,2.0,Grenville Street,WC1N 1LX,6.63,8.06,46130751
+paid-for,3.0,Greville Road,NW6 5HT,3.84,4.65,46043693
+paid-for,1.0,Guilford Street,WC1N 1DR,6.63,8.06,46042920
+paid-for,4.0,Guilford Street,WC1N 1DZ,6.63,8.06,46043103
+paid-for,4.0,Guilford Street,WC1N 1DZ,6.63,8.06,46042539
+paid-for,6.0,Guilford Street,WC1N 1EH,6.63,8.06,46043270
+paid-for,1.0,Guilford Street,WC1N 2LF,6.63,8.06,46130560
+paid-for,2.0,Guilford Street,WC1N 1ES,6.63,8.06,46042925
+paid-for,3.0,Guilford Street,WC1N 1DX,6.63,8.06,46042921
+paid-for / permit holders,9.0,Hammond Street,NW5 2EL,3.84,4.65,46048655
+paid-for / permit holders,4.0,Hammond Street,NW5 2EL,3.84,4.65,46045146
+paid-for / permit holders,5.0,Hammond Street,NW5 2EL,3.84,4.65,46048657
+paid-for / permit holders,7.0,Hammond Street,NW5 2EL,3.84,4.65,46048656
+paid-for / permit holders,4.0,Hammond Street,NW5 2TU,3.84,4.65,46132450
+paid-for / permit holders,3.0,Hammond Street,NW5 2EL,3.84,4.65,46132454
+paid-for / permit holders,5.0,Hammond Street,NW5 2TU,3.84,4.65,46132452
+paid-for,4.0,Hampstead Grove,NW3 1DU,3.84,4.65,46133272
+paid-for,4.0,Hampstead Grove,NW3 1DU,3.84,4.65,46133274
+paid-for,4.0,Hampstead High Street,NW3 1QH,4.83,5.87,46048709
+paid-for,5.0,Hampstead High Street,NW3 1PY,4.83,5.87,46048716
+paid-for,2.0,Hampstead High Street,NW3 1QE,4.83,5.87,46048721
+paid-for,1.0,Hampstead High Street,NW3 1PX,4.83,5.87,46048717
+paid-for,1.0,Hampstead High Street,NW3 1QB,4.83,5.87,46132888
+paid-for,1.0,Hampstead High Street,NW3 1JQ,4.83,5.87,46048720
+paid-for,2.0,Hampstead High Street,NW3 1QX,4.83,5.87,46048711
+paid-for,20.0,Hampstead High Street,NW3 1RG,4.83,5.87,46049069
+paid-for,5.0,Hampstead High Street,NW3 1PR,4.83,5.87,46049070
+paid-for,8.0,Hampstead Road,NW1 7QY,4.83,5.87,46047802
+paid-for,5.0,Harmood Street,NW1 8DS,3.84,4.65,46045932
+paid-for / resident permit holders,2.0,Harmood Street,NW1 8DN,3.84,4.65,46131717
+paid-for,4.0,Harmood Street,NW1 8DN,3.84,4.65,46131719
+paid-for,6.0,Harmood Street,NW1 8DP,3.84,4.65,46045639
+paid-for,3.0,Harmood Street,NW1 8DP,3.84,4.65,46045939
+paid-for,3.0,Harpur Street,WC1X 8WB,6.63,8.06,46134580
+paid-for,2.0,Harrington Square,NW1 2JH,4.83,5.87,46131612
+paid-for,4.0,Harrison Street,WC1H 8JG,6.63,8.06,46043205
+paid-for,2.0,Harrison Street,WC1H 8JJ,6.63,8.06,46131816
+paid-for,3.0,Hartland Road,NW1 8DA,3.84,4.65,46131721
+paid-for,3.0,Hartland Road,NW1 8HR,3.84,4.65,46048249
+paid-for,2.0,Hastings Street,WC1H 9NP,6.63,8.06,46043308
+paid-for,5.0,Hastings Street,WC1H 9EN,6.63,8.06,46043325
+paid-for,4.0,Hastings Street,WC1H 9DR,6.63,8.06,46043214
+paid-for,2.0,Hatton Garden,EC1N 8EX,6.63,8.06,46042974
+paid-for,6.0,Hatton Garden,EC1N 8EB,6.63,8.06,46127525
+paid-for,1.0,Hatton Garden,EC1N 8JT,6.63,8.06,46042839
+paid-for,12.0,Hatton Garden,EC1N 8AN,6.63,8.06,46127526
+paid-for,2.0,Hatton Garden,EC1N 8HN,6.63,8.06,46042973
+paid-for,5.0,Hatton Garden,EC1N 8AT,6.63,8.06,46042517
+paid-for,4.0,Hatton Garden,EC1N 8ER,6.63,8.06,46042838
+paid-for,2.0,Hatton Garden,EC1N 8LE,6.63,8.06,46042981
+paid-for,8.0,Hatton Garden,EC1N 8AW,6.63,8.06,46042979
+paid-for,2.0,Hatton Garden,EC1N 8QQ,6.63,8.06,46042977
+paid-for,13.0,Hatton Garden,EC1N 8DX,6.63,8.06,46042976
+paid-for,2.0,Hatton Garden,EC1N 8BQ,6.63,8.06,46042573
+paid-for,1.0,Hatton Garden,EC1N 8QQ,6.63,8.06,46042978
+paid-for,2.0,Hatton Wall,EC1N 8HX,6.63,8.06,46042972
+paid-for,3.0,Hawley Crescent,NW1 8NP,4.83,5.87,46048210
+paid-for,4.0,Hawley Crescent,NW1 8NL,4.83,5.87,46048211
+paid-for,2.0,Hawley Crescent,NW1 8TT,4.83,5.87,46048209
+paid-for,5.0,Hawley Crescent,NW1 8TT,4.83,5.87,46048317
+paid-for,3.0,Hawley Street,NW1 8AG,3.84,4.65,46131722
+paid-for,5.0,Heath Street,NW3 6TP,4.83,5.87,46048842
+paid-for,3.0,Heath Street,NW3 6TP,4.83,5.87,46034988
+paid-for,8.0,Heath Street,NW3 6TU,4.83,5.87,46048708
+paid-for,1.0,Heathcote Street,WC1N 2AL,6.63,8.06,46043110
+paid-for,4.0,Heathcote Street,WC1N 2AL,6.63,8.06,46043111
+paid-for,3.0,Hemstal Road,NW6 2AD,2.38,2.89,46044437
+paid-for,1.0,Hemstal Road,NW6 2AE,2.38,2.89,46044436
+paid-for,2.0,Herbrand Street,WC1N 1LJ,6.63,8.06,46036207
+paid-for,2.0,Herbrand Street,WC1N 1HA,6.63,8.06,46035866
+paid-for,2.0,Herbrand Street,WC1N 1LB,6.63,8.06,46036318
+paid-for,3.0,Herbrand Street,WC1N 1HA,6.63,8.06,46036190
+paid-for,2.0,Herbrand Street,WC1N 1LB,6.63,8.06,46036208
+paid-for,1.0,Herbrand Street,WC1N 1JD,6.63,8.06,46036296
+paid-for,2.0,High Holborn,WC1V 6PX,6.63,8.06,46042706
+paid-for / resident permit holders,3.0,Highgate High Street,N6 5JT,3.84,4.65,46045114
+paid-for / resident permit holders,4.0,Highgate High Street,N6 5JT,3.84,4.65,46045067
+paid-for,12.0,Highgate Hill,N6 5HG,3.84,4.65,46044852
+paid-for,3.0,Highgate Hill,N6 5HG,3.84,4.65,46045056
+paid-for,3.0,Highgate Hill,N6 5HG,3.84,4.65,46045057
+paid-for / resident permit holders,14.0,Highgate Hill,N6 5JR,3.84,4.65,46045121
+paid-for,3.0,Highgate Road,NW5 1PA,3.84,4.65,46134627
+paid-for / resident permit holders,17.0,Highgate Road,NW5 1QR,3.84,4.65,46132890
+paid-for / resident permit holders,3.0,Highgate West Hill,N6 6BB,3.84,4.65,46045073
+paid-for / resident permit holders,14.0,Highgate West Hill,N6 6BU,3.84,4.65,46045119
+paid-for / resident permit holders,6.0,Hillfield Road,NW6 1NY,2.38,2.89,46044061
+paid-for,4.0,Holford Road,NW3 1AG,3.84,4.65,46049260
+paid-for,1.0,Holly Bush Vale,NW3 6TX,4.83,5.87,46132894
+paid-for,3.0,Holmes Road,NW5 3AU,3.84,4.65,46128592
+paid-for,5.0,Holmes Road,NW5 3AT,2.38,2.89,46129563
+paid-for / resident permit holders,2.0,Howitt Road,NW3 4QS,3.84,4.65,46133501
+paid-for,1.0,Huntley Street,WC1E 6AG,6.63,8.06,46131702
+paid-for,2.0,Huntley Street,WC1E 6AG,6.63,8.06,46036302
+paid-for,2.0,Huntley Street,WC1E 7AT,6.63,8.06,46036136
+paid-for,4.0,Huntley Street,WC1E 6AG,6.63,8.06,46036301
+paid-for / resident permit holders,4.0,Ingham Road,NW6 1DH,2.38,2.89,46044221
+paid-for,2.0,Inglewood Road,NW6 1RB,3.84,4.65,46044524
+paid-for,4.0,Inglewood Road,NW6 1RB,3.84,4.65,46044523
+paid-for,3.0,Islip Street,NW5 2EN,3.84,4.65,46045440
+paid-for,2.0,Islip Street,NW5 2EN,3.84,4.65,46132441
+paid-for / permit holders,5.0,Islip Street,NW5 2UA,3.84,4.65,46132438
+paid-for,2.0,Islip Street,NW5 2EN,3.84,4.65,46132439
+paid-for / permit holders,2.0,Islip Street,NW5 2TU,3.84,4.65,46132436
+paid-for / permit holders,5.0,Iverson Road,NW6 2HL,2.38,2.89,46130300
+paid-for / permit holders,2.0,Iverson Road,NW6 2HL,2.38,2.89,46130298
+paid-for / resident permit holders,4.0,Iverson Road,NW6 2QW,2.38,2.89,46044271
+paid-for,3.0,Iverson Road,NW6 2HX,2.38,2.89,46044262
+paid-for,2.0,Ivor Street,NW1 9LT,4.83,5.87,46048223
+paid-for,8.0,Jamestown Road,NW1 7BW,4.83,5.87,46048179
+paid-for,3.0,Jeffrey's Street,NW1 9PU,4.83,5.87,46047871
+paid-for,1.0,Jeffrey's Street,NW1 9PW,4.83,5.87,46134597
+paid-for,2.0,Jockey's Fields,WC1R 4BN,6.63,8.06,46042960
+paid-for,2.0,Jockey's Fields,WC1X 8SH,6.63,8.06,46042567
+paid-for,1.0,Jockey's Fields,WC1R 4BN,6.63,8.06,46042959
+paid-for,3.0,Jockey's Fields,WC1R 4BW,6.63,8.06,46042961
+paid-for / resident permit holders,7.0,John Street,WC1N 2DE,6.63,8.06,46043063
+paid-for / resident permit holders,2.0,John Street,WC1X 8PF,6.63,8.06,46043016
+paid-for / resident permit holders,1.0,John Street,WC1N 2DL,6.63,8.06,46130566
+paid-for / resident permit holders,3.0,John Street,WC1N 2AT,6.63,8.06,46042807
+paid-for / resident permit holders,2.0,John's Mews,WC1N 2NB,6.63,8.06,46042805
+paid-for,1.0,Keeley Street,WC2B 6TE,6.63,8.06,46043005
+paid-for,4.0,Keeley Street,WC2B 4BA,6.63,8.06,46042722
+paid-for,2.0,Kelly Street,NW1 8PD,3.84,4.65,46045603
+paid-for,2.0,Kemble Street,WC2B 6TE,6.63,8.06,46042717
+paid-for,7.0,Kentish Town Road,NW5 2JT,3.84,4.65,46045149
+paid-for,6.0,Kentish Town Road,NW5 2AG,3.84,4.65,46133443
+paid-for,6.0,Kentish Town Road,NW1 9NR,4.83,5.87,46047865
+paid-for,4.0,Kentish Town Road,NW1 9NX,4.83,5.87,46048212
+paid-for,8.0,Kentish Town Road,NW1 8PB,4.83,5.87,46048293
+paid-for,2.0,Kentish Town Road,NW5 2EA,3.84,4.65,46048659
+paid-for,2.0,Kentish Town Road,NW1 9NX,4.83,5.87,46048213
+paid-for,4.0,Kentish Town Road,NW5 2AA,3.84,4.65,46045609
+paid-for,5.0,Keppel Street,WC1E 6HW,6.63,8.06,46036063
+paid-for / resident permit holders,2.0,Kidderpore Avenue,NW3 7AS,3.84,4.65,46130234
+paid-for / resident permit holders,3.0,Kidderpore Avenue,NW3 7AS,3.84,4.65,46035159
+paid-for / resident permit holders,3.0,Kidderpore Avenue,NW3 7AS,3.84,4.65,46132780
+paid-for / resident permit holders,6.0,Kidderpore Avenue,NW3 7SU,3.84,4.65,46035163
+paid-for / resident permit holders,2.0,Kidderpore Avenue,NW3 7BR,3.84,4.65,46035155
+paid-for / resident permit holders,8.0,Kidderpore Avenue,NW3 7AS,3.84,4.65,46132775
+paid-for / resident permit holders,1.0,Kidderpore Avenue,NW3 7BR,3.84,4.65,46133067
+paid-for / resident permit holders,1.0,Kidderpore Avenue,NW3 7SG,3.84,4.65,46035167
+paid-for / resident permit holders,2.0,Kidderpore Avenue,NW3 7AS,3.84,4.65,46132782
+paid-for / resident permit holders,1.0,Kidderpore Avenue,NW3 7AS,3.84,4.65,46130232
+paid-for / resident permit holders,2.0,Kidderpore Avenue,NW3 7SG,3.84,4.65,46035164
+paid-for / resident permit holders,4.0,Kidderpore Avenue,NW3 7SG,3.84,4.65,46035165
+paid-for / resident permit holders,10.0,Kidderpore Avenue,NW3 7SU,3.84,4.65,46035162
+paid-for / resident permit holders,2.0,Kidderpore Avenue,NW3 7AS,4.83,5.87,46134528
+paid-for / resident permit holders,2.0,Kidderpore Gardens,NW3 7PE,3.84,4.65,46035238
+paid-for,2.0,Kilburn Priory,NW6 5RP,3.84,4.65,46133086
+paid-for,4.0,Kilburn Priory,NW6 5RP,3.84,4.65,46134564
+paid-for,3.0,Kilburn Priory,NW6 4AA,3.84,4.65,46043585
+paid-for,1.0,Kingsgate Place,NW6 4JH,2.38,2.89,46043607
+paid-for / resident permit holders,2.0,Kingsgate Road,NW6 2JH,2.38,2.89,46134827
+paid-for / resident permit holders,2.0,Kingsgate Road,NW6 4LA,2.38,2.89,46043402
+paid-for / resident permit holders,7.0,Kingsgate Road,NW6 2JE,2.38,2.89,46043695
+paid-for / resident permit holders,3.0,Kingsgate Road,NW6 4JY,2.38,2.89,46043620
+paid-for,5.0,Kingsgate Road,NW6 2AE,2.38,2.89,46044434
+paid-for,1.0,Kingsgate Road,NW6 4PR,2.38,2.89,46133083
+paid-for,3.0,Kingsgate Road,NW6 4LA,2.38,2.89,46043396
+paid-for / resident permit holders,1.0,Kingsgate Road,NW6 4LA,2.38,2.89,46043400
+paid-for / resident permit holders,5.0,Kingsgate Road,NW6 4TE,2.38,2.89,46043619
+paid-for,2.0,Kirby Street,EC1N 8TS,6.63,8.06,46134584
+paid-for,2.0,Kirby Street,EC1N 8TS,6.63,8.06,46134586
+paid-for,8.0,Lady Margaret Road,NW5 2XT,3.84,4.65,46045512
+paid-for / permit holders,1.0,Lady Somerset Road,NW5 1TY,3.84,4.65,46126636
+paid-for,2.0,Lamb's Conduit Street,WC1N 3LE,6.63,8.06,46042657
+paid-for,3.0,Lamb's Conduit Street,WC1X 8NL,6.63,8.06,46042935
+paid-for,2.0,Lambolle Place,NW3 4PG,3.84,4.65,46047360
+paid-for,5.0,Lambolle Place,NW3 4PE,3.84,4.65,46047352
+paid-for,2.0,Lambolle Place,NW3 4PG,3.84,4.65,46128572
+paid-for,3.0,Lancing Street,NW1 1DB,4.83,5.87,46049525
+paid-for,2.0,Lawn Road,NW3 2EN,3.84,4.65,46046237
+paid-for,3.0,Lawn Road,NW3 2EN,3.84,4.65,46132200
+paid-for,1.0,Leigh Street,WC1H 9EW,6.63,8.06,46043125
+paid-for,3.0,Leigh Street,WC1H 9RF,6.63,8.06,46043306
+paid-for,2.0,Leigh Street,WC1H 9EW,6.63,8.06,46043124
+paid-for,2.0,Leigh Street,WC1H 9EP,6.63,8.06,46043305
+paid-for,1.0,Leigh Street,WC1H 9EP,6.63,8.06,46043123
+paid-for,3.0,Lewis Street,NW1 8PU,3.84,4.65,46047887
+paid-for,2.0,Lewis Street,NW1 8PX,3.84,4.65,46048268
+paid-for,1.0,Lincoln's Inn Fields,WC2A 3LJ,6.63,8.06,46042714
+paid-for,11.0,Lincoln's Inn Fields,WC2A 3TL,6.63,8.06,46043024
+paid-for,7.0,Lincoln's Inn Fields,WC2A 3LN,6.63,8.06,46042596
+paid-for,7.0,Lincoln's Inn Fields,WC2A 3TN,6.63,8.06,46042708
+paid-for,1.0,Lincoln's Inn Fields,WC2A 3JX,6.63,8.06,46043022
+paid-for,21.0,Lincoln's Inn Fields,WC2A 3TN,6.63,8.06,46042710
+paid-for,1.0,Lincoln's Inn Fields,WC2A 3JW,6.63,8.06,46043023
+paid-for / resident permit holders,2.0,Lissenden Gardens,NW5 1LZ,3.84,4.65,46044655
+paid-for / resident permit holders,3.0,Lissenden Gardens,NW5 1LZ,3.84,4.65,46044656
+paid-for,2.0,Little Russell Street,WC1A 2HH,6.63,8.06,46042686
+paid-for,3.0,Little Russell Street,WC1A 2HN,6.63,8.06,46042688
+paid-for,4.0,Longford Street,NW1 3PE,4.83,5.87,46047503
+paid-for,3.0,Loudoun Road,NW8 0DL,3.84,4.65,46043446
+paid-for,6.0,Loudoun Road,NW8 0AN,3.84,4.65,46043448
+paid-for,2.0,Loveridge Road,NW6 2QH,2.38,2.89,46044435
+paid-for / permit holders,6.0,Lower Merton Rise,NW3 3DR,4.83,5.87,46133603
+paid-for / permit holders,1.0,Lower Merton Rise,NW3 3RA,4.83,5.87,46132249
+paid-for / permit holders,4.0,Lower Merton Rise,NW3 3RA,4.83,5.87,46047106
+paid-for / permit holders,2.0,Lower Merton Rise,NW3 3RA,4.83,5.87,46047116
+paid-for,3.0,Lyme Street,NW1 9DT,4.83,5.87,46047965
+paid-for,3.0,Lyme Street,NW1 0EB,4.83,5.87,46047971
+paid-for,1.0,Lyme Street,NW1 0QS,4.83,5.87,46134594
+paid-for / resident permit holders,3.0,Lymington Road,NW6 1HQ,3.84,4.65,46044639
+paid-for,4.0,Lymington Road,NW6 1SW,3.84,4.65,46044558
+paid-for,2.0,Lyndhurst Gardens,NW3 5QH,3.84,4.65,46049046
+paid-for,2.0,Lyndhurst Gardens,NW3 5NN,3.84,4.65,46048976
+paid-for,2.0,Mabledon Place,WC1H 9AZ,6.63,8.06,46043291
+paid-for,2.0,Mabledon Place,WC1H 9AZ,6.63,8.06,46043290
+paid-for,1.0,Macklin Street,WC2B 5NE,6.63,8.06,46127670
+paid-for / resident permit holders,11.0,Malden Road,NW5 4HT,3.84,4.65,46045734
+paid-for,3.0,Malden Road,NW5 3HH,3.84,4.65,46045714
+paid-for,4.0,Malden Road,NW5 4BY,3.84,4.65,46046062
+paid-for,3.0,Malden Road,NW5 4DA,3.84,4.65,46045722
+paid-for,11.0,Malet Street,WC1E 7HT,6.63,8.06,46035823
+paid-for,3.0,Malet Street,WC1E 7HX,6.63,8.06,46036254
+paid-for (buses),2.0,Malet Street,WC1E 7HU,8.39,8.39,46035981
+paid-for,6.0,Mansfield Road,NW3 2HU,3.84,4.65,46046188
+paid-for,5.0,Mansfield Road,NW3 2JL,3.84,4.65,46046197
+paid-for,6.0,Manstone Road,NW2 3XH,2.38,2.89,46043957
+paid-for / resident permit holders,2.0,Maple Place,W1T 4BD,6.63,8.06,46036010
+paid-for,7.0,Marchmont Street,WC1N 1AP,6.63,8.06,46036185
+paid-for,2.0,Maresfield Gardens,NW3 5SJ,3.84,4.65,46035651
+paid-for,3.0,Maresfield Gardens,NW3 5SJ,3.84,4.65,46035650
+paid-for,2.0,Maresfield Gardens,NW3 5SS,3.84,4.65,46035649
+paid-for,5.0,Maresfield Gardens,NW3 5LA,3.84,4.65,46035647
+paid-for,3.0,Maresfield Gardens,NW3 5SS,3.84,4.65,46035645
+paid-for,6.0,Maresfield Gardens,NW3 5SS,3.84,4.65,46035648
+paid-for,2.0,Maresfield Gardens,NW3 5TF,3.84,4.65,46035748
+paid-for,6.0,Maresfield Gardens,NW3 5RY,3.84,4.65,46134821
+paid-for / resident permit holders,11.0,Maygrove Road,NW6 2EP,2.38,2.89,46044321
+paid-for,3.0,Mecklenburgh Street,WC1N 2AH,6.63,8.06,46043277
+paid-for,1.0,Mecklenburgh Street,WC1N 2AH,6.63,8.06,46043113
+paid-for / resident permit holders,7.0,Merton Lane,N6 6NG,3.84,4.65,46127851
+paid-for / resident permit holders,6.0,Merton Lane,N6 6NB,3.84,4.65,46128820
+paid-for / resident permit holders,3.0,Merton Lane,N6 6NA,3.84,4.65,46127847
+paid-for / resident permit holders,6.0,Merton Lane,N6 6NG,3.84,4.65,46127848
+paid-for,4.0,Messina Avenue,NW6 4JP,2.38,2.89,46133090
+paid-for / permit holders,7.0,Messina Avenue,NW6 4LD,2.38,2.89,46043392
+paid-for / resident permit holders,3.0,Messina Avenue,NW6 4LA,2.38,2.89,46043640
+paid-for / resident permit holders,7.0,Mill Lane,NW6 1TG,2.38,2.89,46043854
+paid-for / resident permit holders,7.0,Mill Lane,NW6 1NF,2.38,2.89,46044493
+paid-for / resident permit holders,7.0,Mill Lane,NW6 1TE,2.38,2.89,46044496
+paid-for / resident permit holders,2.0,Mill Lane,NW6 1NJ,2.38,2.89,46044016
+paid-for / resident permit holders,5.0,Mill Lane,NW6 1NQ,2.38,2.89,46044556
+paid-for / resident permit holders,4.0,Mill Lane,NW6 1NB,2.38,2.89,46044015
+paid-for / resident permit holders,28.0,Mill Lane,NW6 1NS,2.38,2.89,46044212
+paid-for / resident permit holders,3.0,Mill Lane,NW6 1NR,2.38,2.89,46134212
+paid-for / resident permit holders,5.0,Mill Lane,NW6 1NR,2.38,2.89,46044018
+paid-for / resident permit holders,8.0,Mill Lane,NW6 1NL,2.38,2.89,46128599
+paid-for / resident permit holders,9.0,Millfield Lane,N6 6JB,3.84,4.65,46044884
+paid-for / resident permit holders,2.0,Millfield Lane,N6 6JH,3.84,4.65,46132904
+paid-for / resident permit holders,1.0,Millfield Lane,N6 6JH,3.84,4.65,46044887
+paid-for / resident permit holders,4.0,Millfield Lane,N6 6JB,3.84,4.65,46044885
+paid-for / resident permit holders,15.0,Millfield Lane,N6 6JB,3.84,4.65,46045095
+paid-for / resident permit holders,3.0,Millfield Lane,N6 6JB,3.84,4.65,46045096
+paid-for / resident permit holders,14.0,Millfield Lane,N6 6JB,3.84,4.65,46044886
+paid-for,3.0,Millman Street,WC1N 3EE,6.63,8.06,46042816
+paid-for,3.0,Millman Street,WC1N 3EQ,6.63,8.06,46042818
+paid-for / resident permit holders,2.0,Millman Street,WC1N 3EW,6.63,8.06,46129551
+paid-for / resident permit holders,3.0,Minster Road,NW2 3SJ,2.38,2.89,46044140
+paid-for,2.0,Minster Road,NW2 3XL,2.38,2.89,46043782
+paid-for (buses),2.0,Montague Place,WC1E 7JW,8.39,8.39,46035980
+paid-for (buses),5.0,Montague Place,WC1B 3QQ,8.39,8.39,46035979
+paid-for,4.0,Montague Street,WC1B 5BJ,6.63,8.06,46035992
+paid-for / permit holders,1.0,Mornington Crescent,NW1 7RE,4.83,5.87,46047541
+paid-for,5.0,Mornington Crescent,NW1 7RH,4.83,5.87,46047784
+paid-for / permit holders,1.0,Mornington Crescent,NW1 7RE,4.83,5.87,46047542
+paid-for / permit holders,3.0,Mornington Crescent,NW1 7RG,4.83,5.87,46047564
+paid-for,3.0,Mornington Crescent,NW1 7RB,4.83,5.87,46047798
+paid-for / permit holders,1.0,Mornington Crescent,NW1 7RE,4.83,5.87,46047540
+paid-for / permit holders,8.0,Mornington Crescent,NW1 7RG,4.83,5.87,46047785
+paid-for / resident permit holders,4.0,Mornington Place,NW1 7RW,4.83,5.87,46131619
+paid-for / resident permit holders,2.0,Mornington Street,NW1 7HU,4.83,5.87,46131618
+paid-for / resident permit holders,4.0,Mornington Street,NW1 7QE,4.83,5.87,46131617
+paid-for,4.0,Mornington Terrace,NW1 7RT,4.83,5.87,46047734
+paid-for,2.0,Mortimer Market,WC1E 6JF,6.63,8.06,46036249
+paid-for,3.0,Mortimer Market,W1T 7HA,6.63,8.06,46036083
+paid-for,2.0,Mount Pleasant,WC1X 0AE,6.63,8.06,46042826
+paid-for,3.0,Murray Street,NW1 9BR,3.84,4.65,46048531
+paid-for,5.0,Murray Street,NW1 9RE,3.84,4.65,46048534
+paid-for,2.0,Netherhall Gardens,NW3 5RS,3.84,4.65,46035587
+paid-for,2.0,Netherwood Street,NW6 2QS,2.38,2.89,46043380
+paid-for / resident permit holders,4.0,Netherwood Street,NW6 2QU,2.38,2.89,46043368
+paid-for,1.0,Netherwood Street,NW6 2QU,2.38,2.89,46043378
+paid-for,5.0,Netherwood Street,NW6 2QU,2.38,2.89,46043376
+paid-for,4.0,New Compton Street,WC2H 8DA,6.63,8.06,46042743
+paid-for,7.0,New Compton Street,WC2H 8DF,6.63,8.06,46042742
+paid-for,5.0,New End,NW3 1JE,3.84,4.65,46132908
+paid-for,5.0,New North Street,WC1X 8RX,6.63,8.06,46042796
+paid-for,3.0,New Oxford Street,WC1A 1AD,6.63,8.06,46042768
+paid-for,2.0,Newman's Row,WC2A 3PD,6.63,8.06,46128642
+paid-for,1.0,Newton Street,WC2B 5EF,6.63,8.06,46042720
+paid-for / permit holders,3.0,North End Way,NW3 7EU,3.84,4.65,46049065
+paid-for / permit holders,4.0,North End Way,NW3 7HG,3.84,4.65,46049054
+paid-for,5.0,North Gower Street,NW1 2NB,4.83,5.87,46047518
+paid-for,6.0,North Gower Street,NW1 2LY,4.83,5.87,46047714
+paid-for,3.0,North Gower Street,NW1 2ND,4.83,5.87,46047704
+paid-for,8.0,North Gower Street,NW1 2ND,4.83,5.87,46047712
+paid-for,3.0,North Gower Street,NW1 2ND,4.83,5.87,46047713
+paid-for,9.0,North Gower Street,NW1 2NR,4.83,5.87,46047611
+paid-for,3.0,North Gower Street,NW1 2NJ,4.83,5.87,46130435
+paid-for,1.0,North Mews,WC1N 2JU,6.63,8.06,46131911
+paid-for / resident permit holders,5.0,Northington Street,WC1N 2NZ,6.63,8.06,46128100
+paid-for,4.0,Northington Street,WC1N 2JF,6.63,8.06,46042809
+paid-for,7.0,Nutley Terrace,NW3 5SY,3.84,4.65,46035583
+paid-for,5.0,Nutley Terrace,NW3 5SG,3.84,4.65,46035585
+paid-for / resident permit holders,5.0,Oakhill Avenue,NW3 7EG,3.84,4.65,46035398
+paid-for / resident permit holders,3.0,Oakhill Avenue,NW3 7EG,3.84,4.65,46035399
+paid-for,3.0,Oakley Square,NW1 1NB,4.83,5.87,46047776
+paid-for,3.0,Oakley Square,NW1 1NL,4.83,5.87,46047551
+paid-for,1.0,Oakley Square,NW1 1NJ,4.83,5.87,46047778
+paid-for,7.0,Oakley Square,NW1 1NJ,4.83,5.87,46047779
+paid-for,5.0,Oakley Square,NW1 1NB,4.83,5.87,46047777
+paid-for,5.0,Old Gloucester Street,WC1N 3AD,6.63,8.06,46042786
+paid-for,1.0,Orde Hall Street,WC1N 3PD,6.63,8.06,46042799
+paid-for,2.0,Orde Hall Street,WC1N 3JW,6.63,8.06,46042800
+paid-for,2.0,Osnaburgh Street,NW1 3DF,4.83,5.87,46047692
+paid-for,2.0,Osnaburgh Street,NW1 3DE,4.83,5.87,46047693
+paid-for,8.0,Osnaburgh Street,NW1 3DE,4.83,5.87,46131576
+paid-for,1.0,Osnaburgh Street,NW1 3DF,4.83,5.87,46047501
+paid-for,4.0,Ospringe Road,NW5 2JB,3.84,4.65,46045367
+paid-for / permit holders,4.0,Ospringe Road,NW5 2NL,3.84,4.65,46133371
+paid-for,2.0,Ossulston Street,NW1 1JJ,4.83,5.87,46049557
+paid-for,2.0,Ossulston Street,NW1 1DF,4.83,5.87,46049564
+paid-for,5.0,Ossulston Street,NW1 1JJ,4.83,5.87,46049560
+paid-for,4.0,Ossulston Street,NW1 1JJ,4.83,5.87,46049559
+paid-for,1.0,Ossulston Street,NW1 1EY,4.83,5.87,46049565
+paid-for,5.0,Ossulston Street,NW1 1EX,4.83,5.87,46134604
+paid-for,1.0,Ossulston Street,NW1 1JJ,4.83,5.87,46132948
+paid-for,7.0,Oval Road,NW1 7EE,4.83,5.87,46048191
+paid-for,4.0,Oval Road,NW1 7BJ,4.83,5.87,46130248
+paid-for,3.0,Oval Road,NW1 7PE,4.83,5.87,46048198
+paid-for,4.0,Oval Road,NW1 7DH,4.83,5.87,46048200
+paid-for,4.0,Oval Road,NW1 7BJ,4.83,5.87,46048205
+paid-for,2.0,Oval Road,NW1 7DH,4.83,5.87,46048201
+paid-for,2.0,Oval Road,NW1 7PE,4.83,5.87,46048199
+paid-for,1.0,Pakenham Street,WC1X 0LJ,6.63,8.06,46043222
+paid-for,3.0,Pakenham Street,WC1X 0HF,6.63,8.06,46130570
+paid-for,3.0,Pakenham Street,WC1X 0LG,6.63,8.06,46043217
+paid-for / resident permit holders,5.0,Palmerston Road,NW6 2JL,2.38,2.89,46043698
+paid-for,5.0,Palmerston Road,NW6 2DG,2.38,2.89,46043605
+paid-for,3.0,Park Village East,NW1 7PZ,4.83,5.87,46047663
+paid-for,3.0,Park Village East,NW1 7PX,4.83,5.87,46133465
+paid-for,6.0,Park Village East,NW1 3DL,4.83,5.87,46047664
+paid-for,8.0,Park Village East,NW1 3SX,4.83,5.87,46047661
+paid-for,2.0,Park Village West,NW1 4AP,4.83,5.87,46047615
+paid-for,2.0,Parker Street,WC2B 5AH,6.63,8.06,46043054
+paid-for,5.0,Parkhill Road,NW3 2QP,3.84,4.65,46131128
+paid-for,4.0,Parkway,NW1 7AN,4.83,5.87,46048164
+paid-for,3.0,Parkway,NW1 7AN,4.83,5.87,46048163
+paid-for,7.0,Parkway,NW1 7AH,4.83,5.87,46048161
+paid-for,3.0,Parkway,NW1 7PP,4.83,5.87,46047852
+paid-for,5.0,Parkway,NW1 7AN,4.83,5.87,46048283
+paid-for,5.0,Parkway,NW1 7AN,4.83,5.87,46048162
+paid-for,4.0,Parkway,NW1 7PP,4.83,5.87,46127155
+paid-for,1.0,Patshull Road,NW5 2AE,3.84,4.65,46130414
+paid-for,1.0,Patshull Road,NW5 2LB,3.84,4.65,46130416
+paid-for,2.0,Percy Street,W1T 1DY,6.63,8.06,46035984
+paid-for,2.0,Percy Street,W1T 2DA,6.63,8.06,46036128
+paid-for,4.0,Percy Street,W1T 2DQ,6.63,8.06,46036148
+paid-for,7.0,Percy Street,W1T 1DL,6.63,8.06,46129471
+paid-for,3.0,Percy Street,W1T 1DQ,6.63,8.06,46131271
+paid-for,2.0,Perrin's Lane,NW3 1QU,4.83,5.87,46049279
+paid-for,1.0,Phoenix Road,NW1 1HB,4.83,5.87,46049341
+paid-for,4.0,Phoenix Road,NW1 1TA,4.83,5.87,46049496
+paid-for,2.0,Phoenix Road,NW1 1SS,4.83,5.87,46049340
+paid-for,2.0,Pilgrim's Lane,NW3 1TH,3.84,4.65,46049128
+paid-for,5.0,Pilgrim's Lane,NW3 1SP,3.84,4.65,46049127
+paid-for,2.0,Plender Street,NW1 0LB,4.83,5.87,46049621
+paid-for,5.0,Plender Street,NW1 0DT,4.83,5.87,46049600
+paid-for,9.0,Plender Street,NW1 0LB,4.83,5.87,46049447
+paid-for,3.0,Plender Street,NW1 0LB,4.83,5.87,46049622
+paid-for,3.0,Polygon Road,NW1 1QH,4.83,5.87,46049536
+paid-for,2.0,Polygon Road,NW1 1QD,4.83,5.87,46049544
+paid-for,1.0,Polygon Road,NW1 1QA,4.83,5.87,46049537
+paid-for,3.0,Portpool Lane,EC1N 7UU,6.63,8.06,46134368
+paid-for,2.0,Pratt Street,NW1 0DL,4.83,5.87,46049601
+paid-for,3.0,Pratt Street,NW1 0DQ,4.83,5.87,46049592
+paid-for,4.0,Pratt Street,NW1 0DN,4.83,5.87,46049602
+paid-for,3.0,Pratt Street,NW1 0BJ,4.83,5.87,46048143
+paid-for,3.0,Pratt Street,NW1 0BG,4.83,5.87,46048145
+paid-for,4.0,Pratt Street,NW1 0BG,4.83,5.87,46049623
+paid-for / permit holders,28.0,Primrose Hill Road,NW3 3AY,4.83,5.87,46048097
+paid-for / permit holders,27.0,Primrose Hill Road,NW3 3AY,4.83,5.87,46133692
+paid-for / permit holders,5.0,Primrose Hill Road,NW3 3DG,4.83,5.87,46047098
+paid-for / permit holders,3.0,Primrose Hill Road,NW3 3DG,4.83,5.87,46134730
+paid-for / permit holders,13.0,Primrose Hill Road,NW3 3AX,4.83,5.87,46048126
+paid-for,6.0,Prince Arthur Road,NW3 6AU,4.83,5.87,46048848
+paid-for,4.0,Prince Arthur Road,NW3 6AU,4.83,5.87,46048847
+paid-for,4.0,Prince Of Wales Road,NW5 3LY,3.84,4.65,46130934
+paid-for,6.0,Prince Of Wales Road,NW5 3LT,3.84,4.65,46130946
+paid-for,6.0,Prince Of Wales Road,NW5 3LA,3.84,4.65,46133419
+paid-for / permit holders,10.0,Princess Road,NW1 8JR,4.83,5.87,46048086
+paid-for / permit holders,3.0,Princess Road,NW1 8JH,4.83,5.87,46047941
+paid-for / resident permit holders,4.0,Princeton Street,WC1R 4BB,6.63,8.06,46042566
+paid-for / resident permit holders,3.0,Princeton Street,WC1R 4BH,6.63,8.06,46130195
+paid-for,3.0,Provost Road,NW3 4SX,3.84,4.65,46045849
+paid-for,8.0,Purchese Street,NW1 1HQ,4.83,5.87,46049570
+paid-for,3.0,Queen Square,WC1N 3HR,6.63,8.06,46131298
+paid-for,6.0,Queen Square,WC1N 3AR,6.63,8.06,46042787
+paid-for,9.0,Queen Square,WC1N 3AZ,6.63,8.06,46042788
+paid-for,5.0,Queen Square,WC1N 3BG,6.63,8.06,46042790
+paid-for,6.0,Queen Square,WC1N 3BG,6.63,8.06,46042791
+paid-for,5.0,Queen's Crescent,NW5 4EP,3.84,4.65,46045656
+paid-for,3.0,Queen's Crescent,NW5 4DU,3.84,4.65,46126754
+paid-for,4.0,Queen's Crescent,NW5 4DU,3.84,4.65,46126755
+paid-for,4.0,Queen's Crescent,NW5 4EG,3.84,4.65,46132417
+paid-for,6.0,Queen's Crescent,NW5 4DR,3.84,4.65,46046145
+paid-for,3.0,Queen's Crescent,NW5 4EG,3.84,4.65,46132416
+paid-for,3.0,Queen's Crescent,NW5 4DS,3.84,4.65,46126752
+paid-for,1.0,Queen's Crescent,NW5 4DS,3.84,4.65,46126753
+paid-for,4.0,Quex Road,NW6 4PG,3.84,4.65,46043678
+paid-for,1.0,Randolph Street,NW1 0SP,4.83,5.87,46133132
+paid-for,4.0,Raveley Street,NW5 2HL,3.84,4.65,46045172
+paid-for / resident permit holders,3.0,Red Lion Square,WC1R 4RB,6.63,8.06,46128644
+paid-for / resident permit holders,1.0,Red Lion Square,WC1R 4RB,6.63,8.06,46134177
+paid-for / resident permit holders,3.0,Red Lion Square,WC1R 4SE,6.63,8.06,46042836
+paid-for / resident permit holders,2.0,Red Lion Square,WC1R 4QG,6.63,8.06,46042990
+paid-for / resident permit holders,5.0,Red Lion Square,WC1R 4QG,6.63,8.06,46042991
+paid-for,2.0,Red Lion Street,WC1R 4PF,6.63,8.06,46133993
+paid-for,1.0,Red Lion Street,WC1R 4NA,6.63,8.06,46131257
+paid-for,3.0,Red Lion Street,WC1R 4AJ,6.63,8.06,46042950
+paid-for,2.0,Red Lion Street,WC1R 4PS,6.63,8.06,46042951
+paid-for,2.0,Redhill Street,NW1 4DJ,4.83,5.87,46133409
+paid-for,4.0,Redhill Street,NW1 4DJ,4.83,5.87,46133410
+paid-for,6.0,Regent Square,WC1H 8HZ,6.63,8.06,46043204
+paid-for / permit holders,6.0,Regent's Park Road,NW1 8XL,4.83,5.87,46134506
+paid-for / permit holders,15.0,Regent's Park Road,NW1 8XN,4.83,5.87,46134517
+paid-for / permit holders,23.0,Regent's Park Road,NW1 8UG,4.83,5.87,46133694
+paid-for / permit holders,1.0,Regent's Park Road,NW1 8UT,4.83,5.87,46047945
+paid-for / permit holders,5.0,Regent's Park Road,NW1 8UR,4.83,5.87,46134516
+paid-for / permit holders,1.0,Regent's Park Road,NW1 8XP,4.83,5.87,46048056
+paid-for / permit holders,2.0,Regent's Park Road,NW1 8XP,4.83,5.87,46133977
+paid-for / permit holders,2.0,Regent's Park Road,NW1 8UR,4.83,5.87,46134026
+paid-for / permit holders,2.0,Regent's Park Road,NW1 8XD,4.83,5.87,46048276
+paid-for / permit holders,5.0,Regent's Park Road,NW1 8XL,4.83,5.87,46134504
+paid-for / permit holders,4.0,Regent's Park Road,NW1 8UY,4.83,5.87,46134513
+paid-for / permit holders,1.0,Regent's Park Road,NW1 8UG,4.83,5.87,46133695
+paid-for / permit holders,11.0,Regent's Park Road,NW1 8XP,4.83,5.87,46134027
+paid-for / permit holders,1.0,Regent's Park Road,NW1 8XP,4.83,5.87,46048057
+paid-for,2.0,Richborough Road,NW2 3EJ,2.38,2.89,46043755
+paid-for,2.0,Richborough Road,NW2 3EJ,2.38,2.89,46043754
+paid-for,2.0,Ridgmount Gardens,WC1E 7AS,6.63,8.06,46134124
+paid-for,8.0,Robert Street,NW1 3FB,4.83,5.87,46047486
+paid-for,7.0,Robert Street,NW1 3JT,4.83,5.87,46047483
+paid-for,6.0,Robert Street,NW1 3QT,4.83,5.87,46047488
+paid-for,2.0,Robert Street,NW1 3QT,4.83,5.87,46047660
+paid-for,2.0,Robert Street,NW1 3QJ,4.83,5.87,46047487
+paid-for,2.0,Robert Street,NW1 3JT,4.83,5.87,46047482
+paid-for,6.0,Robert Street,NW1 3JT,4.83,5.87,46131610
+paid-for,4.0,Rochester Mews,NW1 9JB,3.84,4.65,46048591
+paid-for,1.0,Rochester Road,NW1 9EX,3.84,4.65,46132164
+paid-for,4.0,Rochester Road,NW1 9HX,3.84,4.65,46130177
+paid-for,2.0,Rochester Road,NW1 9QA,3.84,4.65,46048398
+paid-for,2.0,Rochester Terrace,NW1 9JN,3.84,4.65,46048564
+paid-for,1.0,Roger Street,WC1N 2JZ,6.63,8.06,46042811
+paid-for,2.0,Roger Street,WC1N 2BF,6.63,8.06,46042514
+paid-for,3.0,Rondu Road,NW2 3BZ,2.38,2.89,46043804
+paid-for,2.0,Rondu Road,NW2 3BZ,2.38,2.89,46043803
+paid-for,3.0,Rosebery Avenue,EC1R 4TD,6.63,8.06,46042819
+paid-for,9.0,Rosslyn Hill,NW3 1ND,4.83,5.87,46049094
+paid-for,2.0,Rosslyn Hill,NW3 5UQ,4.83,5.87,46048863
+paid-for,3.0,Rosslyn Hill,NW3 1NN,4.83,5.87,46049018
+paid-for,7.0,Rosslyn Hill,NW3 1PD,4.83,5.87,46048941
+paid-for,5.0,Rosslyn Hill,NW3 1PD,4.83,5.87,46132913
+paid-for,2.0,Rosslyn Hill,NW3 1NH,4.83,5.87,46048860
+paid-for,5.0,Royal College Street,NW1 9NN,4.83,5.87,46048281
+paid-for,2.0,Royal College Street,NW1 0SD,4.83,5.87,46126605
+paid-for,7.0,Royal College Street,NW1 0SA,4.83,5.87,46126603
+paid-for,7.0,Russell Square,WC1B 5ER,6.63,8.06,46036315
+paid-for,3.0,Russell Square,WC1B 5ER,6.63,8.06,46036316
+paid-for,10.0,Russell Square,WC1B 5DN,6.63,8.06,46035873
+paid-for,4.0,Russell Square,WC1B 5EG,6.63,8.06,46036317
+paid-for,18.0,Russell Square,WC1B 5DU,6.63,8.06,46035990
+paid-for,2.0,Saffron Hill,EC1N 8XA,6.63,8.06,46130568
+paid-for,1.0,Saffron Hill,EC1N 8QS,6.63,8.06,46042985
+paid-for,6.0,Sandall Road,NW5 2AP,3.84,4.65,46132158
+paid-for,3.0,Sandland Street,WC1R 4AJ,6.63,8.06,46042955
+paid-for,1.0,Sandland Street,WC1R 4LL,6.63,8.06,46042954
+paid-for,3.0,Sandland Street,WC1R 4AJ,6.63,8.06,46042785
+paid-for,5.0,Sandland Street,WC1R 4LL,6.63,8.06,46042784
+paid-for / resident permit holders,2.0,Sandwell Crescent,NW6 1AX,3.84,4.65,46044500
+paid-for / resident permit holders,3.0,Sandwell Crescent,NW6 1XL,3.84,4.65,46044501
+paid-for,3.0,Sandwich Street,WC1H 9EP,6.63,8.06,46043321
+paid-for,3.0,Serle Street,WC2A 3QP,6.63,8.06,46042707
+paid-for,3.0,Serle Street,WC2A 3QN,6.63,8.06,46043025
+paid-for,9.0,Shaftesbury Avenue,WC2H 8AN,6.63,8.06,46127621
+paid-for / permit holders,2.0,Sharpleshall Street,NW1 8YG,4.83,5.87,46048031
+paid-for / permit holders,6.0,Sharpleshall Street,NW1 8YL,4.83,5.87,46048030
+paid-for / permit holders,12.0,Sharpleshall Street,NW1 8YN,4.83,5.87,46048029
+paid-for / permit holders,8.0,Sharpleshall Street,NW1 8YL,4.83,5.87,46048032
+paid-for,2.0,Shelton Street,WC2H 9LA,6.63,8.06,46042667
+paid-for,7.0,Sherriff Road,NW6 2AR,2.38,2.89,46126918
+paid-for,4.0,Sidmouth Street,WC1H 8JN,6.63,8.06,46043079
+paid-for,3.0,Skardu Road,NW2 3EP,2.38,2.89,46043821
+paid-for,3.0,Skardu Road,NW2 3EP,2.38,2.89,46043820
+paid-for / resident permit holders,2.0,Solent Road,NW6 1TP,2.38,2.89,46044636
+paid-for / permit holders,15.0,South End Road,NW3 2RL,4.83,5.87,46048890
+paid-for,3.0,South End Road,NW3 2QE,4.83,5.87,46048893
+paid-for,12.0,South End Road,NW3 2RL,4.83,5.87,46048891
+paid-for,1.0,South End Road,NW3 2PT,3.84,4.65,46046383
+paid-for / resident permit holders,2.0,South Grove,N6 6BD,3.84,4.65,46045117
+paid-for,7.0,South Grove,N6 6BS,3.84,4.65,46045082
+paid-for,1.0,South Grove,N6 6BS,3.84,4.65,46044873
+paid-for,5.0,South Grove,N6 6BD,3.84,4.65,46045086
+paid-for / resident permit holders,2.0,South Grove,N6 6BD,3.84,4.65,46045087
+paid-for,5.0,South Grove,N6 6PH,3.84,4.65,46045084
+paid-for,2.0,South Grove,N6 6PH,3.84,4.65,46045083
+paid-for,1.0,South Grove,N6 6PH,3.84,4.65,46045085
+paid-for / resident permit holders,2.0,South Grove,N6 6BD,3.84,4.65,46045118
+paid-for,5.0,South Grove,N6 6BS,3.84,4.65,46045079
+paid-for / resident permit holders,2.0,South Grove,N6 6BD,3.84,4.65,46045088
+paid-for,4.0,South Grove,N6 6BS,3.84,4.65,46045078
+paid-for,12.0,South Hill Park,NW3 2QD,3.84,4.65,46049192
+paid-for,3.0,South Hill Park,NW3 2QD,3.84,4.65,46049152
+paid-for,2.0,South Hill Park,NW3 2QD,4.83,5.87,46132917
+paid-for,2.0,Southampton Place,WC1A 2AL,6.63,8.06,46042701
+paid-for,3.0,Southampton Place,WC1A 2BP,6.63,8.06,46042697
+paid-for,3.0,Southampton Place,WC1A 2AJ,6.63,8.06,46042699
+paid-for,5.0,Southampton Road,NW3 2JL,3.84,4.65,46132264
+paid-for / permit holders,3.0,Southampton Road,NW5 4JR,3.84,4.65,46130227
+paid-for,4.0,Southampton Road,NW5 4JS,3.84,4.65,46046069
+paid-for,8.0,Spring Place,NW5 3AP,3.84,4.65,46045408
+paid-for,2.0,St Chad's Street,WC1H 8AG,6.63,8.06,46043082
+paid-for,2.0,St Chad's Street,WC1H 8BG,6.63,8.06,46130575
+paid-for,1.0,St Chad's Street,WC1H 8AG,6.63,8.06,46043212
+paid-for,2.0,St Cross Street,EC1N 8UW,6.63,8.06,46042971
+paid-for / permit holders,5.0,St Cuthbert's Road,NW2 3QJ,2.38,2.89,46133520
+paid-for / permit holders,7.0,St Cuthbert's Road,NW2 3TW,2.38,2.89,46133518
+paid-for / permit holders,5.0,St Cuthbert's Road,NW2 3TW,2.38,2.89,46134292
+paid-for,5.0,St Pancras Way,NW1 0NY,4.83,5.87,46049470
+paid-for,2.0,St Pancras Way,NW1 0QG,4.83,5.87,46049437
+paid-for,5.0,St Pancras Way,NW1 0PT,4.83,5.87,46131588
+paid-for,1.0,St Pancras Way,NW1 0PT,4.83,5.87,46131590
+paid-for,2.0,St Pancras Way,NW1 0PT,4.83,5.87,46131589
+paid-for,2.0,St Pancras Way,NW1 0QX,4.83,5.87,46131592
+paid-for,4.0,St Pancras Way,NW1 0NT,4.83,5.87,46049438
+paid-for,4.0,St Pancras Way,NW1 0QG,4.83,5.87,46049471
+paid-for,3.0,St Pancras Way,NW1 9NB,3.84,4.65,46127138
+paid-for,4.0,Stanhope Street,NW1 3HB,4.83,5.87,46047699
+paid-for,4.0,Stanhope Street,NW1 3RB,4.83,5.87,46047674
+paid-for,6.0,Starcross Street,NW1 2LY,4.83,5.87,46047715
+paid-for,3.0,Steele's Road,NW3 4SJ,3.84,4.65,46045816
+paid-for,1.0,Steele's Road,NW3 4RJ,3.84,4.65,46133488
+paid-for,3.0,Stephen Mews,W1T 1AG,6.63,8.06,46035836
+paid-for,1.0,Stephen Street,W1T 1LW,6.63,8.06,46133291
+paid-for,4.0,Stephen Street,W1T 1LN,6.63,8.06,46036150
+paid-for,4.0,Stephenson Way,NW1 2HX,4.83,5.87,46130434
+paid-for,2.0,Stephenson Way,NW1 2FE,4.83,5.87,46047706
+paid-for,3.0,Stephenson Way,NW1 2FE,4.83,5.87,46047513
+paid-for,8.0,Store Street,WC1E 7DE,6.63,8.06,46036072
+paid-for,1.0,Store Street,WC1E 7BT,6.63,8.06,46036125
+paid-for,2.0,Streatham Street,WC1A 1JB,6.63,8.06,46035856
+paid-for,1.0,Streatham Street,WC1B 3QE,6.63,8.06,46036171
+paid-for / resident permit holders,1.0,Sumatra Road,NW6 1NF,2.38,2.89,46044492
+paid-for / resident permit holders,2.0,Sumatra Road,NW6 1NF,2.38,2.89,46044638
+paid-for / resident permit holders,8.0,Sumatra Road,NW6 1PL,2.38,2.89,46044484
+paid-for,2.0,Sumatra Road,NW6 1XL,2.38,2.89,46044474
+paid-for / resident permit holders,3.0,Swain's Lane,N6 6QX,3.84,4.65,46045122
+paid-for / resident permit holders,4.0,Swain's Lane,N6 6PL,3.84,4.65,46044856
+paid-for,6.0,Swain's Lane,N6 6PJ,3.84,4.65,46044857
+paid-for / resident permit holders,2.0,Swain's Lane,N6 6QX,3.84,4.65,46045109
+paid-for / resident permit holders,2.0,Swain's Lane,N6 6QX,3.84,4.65,46044909
+paid-for,1.0,Swain's Lane,N6 6DU,3.84,4.65,46131092
+paid-for,3.0,Swain's Lane,NW5 1QX,3.84,4.65,46045008
+paid-for,1.0,Swain's Lane,N6 6EX,3.84,4.65,46132920
+paid-for / resident permit holders,2.0,Swain's Lane,N6 6QR,3.84,4.65,46045011
+paid-for,1.0,Swain's Lane,N6 6AG,3.84,4.65,46132918
+paid-for,5.0,Swinton Street,WC1X 9NL,6.63,8.06,46043171
+paid-for,1.0,Talacre Road,NW5 3PJ,3.84,4.65,46045737
+paid-for,4.0,Tavistock Square,WC1H 9HH,6.63,8.06,46036229
+paid-for,3.0,Taviton Street,WC1H 0BW,6.63,8.06,46036237
+paid-for,2.0,Taviton Street,WC1H 0BX,6.63,8.06,46036290
+paid-for,2.0,Thanet Street,WC1H 9ER,6.63,8.06,46043315
+paid-for,2.0,Theobald's Road,WC1X 8NW,6.63,8.06,46131308
+paid-for,2.0,Theobald's Road,WC1X 8SP,6.63,8.06,46043015
+paid-for,6.0,Thurlow Road,NW3 5PH,3.84,4.65,46049026
+paid-for,3.0,Thurlow Road,NW3 5UH,3.84,4.65,46048864
+paid-for,2.0,Tottenham Street,W1T 4JB,6.63,8.06,46131254
+paid-for,6.0,University Street,WC1E 6DE,6.63,8.06,46131698
+paid-for,2.0,University Street,WC1E 6DE,6.63,8.06,46129408
+paid-for,2.0,Upper Park Road,NW3 4RU,3.84,4.65,46133496
+paid-for,3.0,Upper Terrace,NW3 6SR,3.84,4.65,46048824
+paid-for,3.0,Upper Woburn Place,WC1H 0HW,6.63,8.06,46036232
+paid-for,3.0,Upper Woburn Place,WC1H 0HW,6.63,8.06,46036231
+paid-for / permit holders,8.0,Vale Of Health,NW3 1ED,3.84,4.65,46049315
+paid-for,1.0,Varndell Street,NW1 3RP,4.83,5.87,46047685
+paid-for,2.0,Varndell Street,NW1 3RR,4.83,5.87,46047684
+paid-for,3.0,Varndell Street,NW1 3RG,4.83,5.87,46134733
+paid-for,1.0,Varndell Street,NW1 3RG,4.83,5.87,46047678
+paid-for,2.0,Verulam Street,WC1X 8LU,6.63,8.06,46042982
+paid-for,3.0,Verulam Street,WC1X 8LZ,6.63,8.06,46042983
+paid-for / resident permit holders,5.0,Vicar's Road,NW5 4AA,3.84,4.65,46127505
+paid-for / resident permit holders,3.0,Vicar's Road,NW5 4AE,3.84,4.65,46127668
+paid-for,1.0,Wakefield Street,WC1N 1PJ,6.63,8.06,46130160
+paid-for,2.0,Wakefield Street,WC1N 1PJ,6.63,8.06,46130161
+paid-for,2.0,Warner Street,EC1R 5EW,6.63,8.06,46042820
+paid-for,3.0,Warner Street,EC1R 5HA,6.63,8.06,46042825
+paid-for,2.0,Warner Street,EC1R 5EW,6.63,8.06,46042821
+paid-for,2.0,Warner Street,EC1R 5BD,6.63,8.06,46042822
+paid-for,3.0,Warren Street,W1T 5LW,6.63,8.06,46036130
+paid-for,3.0,Warren Street,W1T 5PF,6.63,8.06,46129345
+paid-for,3.0,Warren Street,W1T 5PG,6.63,8.06,46131500
+paid-for,1.0,Warren Street,W1T 5NX,6.63,8.06,46130460
+paid-for,1.0,Warren Street,W1T 5NQ,6.63,8.06,46035791
+paid-for,2.0,Warren Street,W1T 6AG,6.63,8.06,46131512
+paid-for,2.0,Warren Street,W1T 5NE,6.63,8.06,46131507
+paid-for,1.0,Warren Street,W1T 5NZ,6.63,8.06,46036026
+paid-for,1.0,Warren Street,W1T 5PA,6.63,8.06,46035787
+paid-for,4.0,Warren Street,W1T 5LF,6.63,8.06,46036021
+trader / permit holders / paid-for,4.0,Weedington Road,NW5 4DX,3.84,4.65,46132928
+paid-for,2.0,Weedington Road,NW5 4HH,3.84,4.65,46046153
+paid-for / permit holders,6.0,Well Road,NW3 1DA,3.84,4.65,46048783
+paid-for / permit holders,7.0,Well Walk,NW3 1BT,3.84,4.65,46132924
+paid-for / permit holders,5.0,Well Walk,NW3 1BT,3.84,4.65,46048784
+paid-for,4.0,Werrington Street,NW1 1QE,4.83,5.87,46049543
+paid-for,3.0,Werrington Street,NW1 1SY,4.83,5.87,46049542
+paid-for,6.0,Werrington Street,NW1 1QE,4.83,5.87,46049539
+paid-for,4.0,West End Lane,NW6 1LG,3.84,4.65,46044499
+paid-for,3.0,West End Lane,NW6 1LN,3.84,4.65,46044472
+paid-for / resident permit holders,5.0,West End Lane,NW6 1LT,2.38,2.89,46044217
+paid-for,2.0,West End Lane,NW6 1LJ,3.84,4.65,46133075
+paid-for,2.0,West End Lane,NW6 1RP,3.84,4.65,46044498
+paid-for / permit holders,9.0,West Heath Road,NW3 7XD,3.84,4.65,46049300
+paid-for / resident permit holders,7.0,West Heath Road,NW3 7XD,3.84,4.65,46049281
+paid-for / resident permit holders,3.0,West Heath Road,NW3 7UU,3.84,4.65,46049066
+paid-for / permit holders,6.0,West Heath Road,NW3 7UX,3.84,4.65,46127181
+paid-for / permit holders,17.0,West Heath Road,NW3 7UU,3.84,4.65,46127180
+paid-for / permit holders,5.0,West Heath Road,NW3 7UU,3.84,4.65,46049282
+paid-for / resident permit holders,3.0,Westbere Road,NW6 1NT,2.38,2.89,46044099
+paid-for / resident permit holders,20.0,Westbere Road,NW2 3RU,2.38,2.89,46044109
+paid-for,3.0,Whetstone Park,WC1V 7EN,6.63,8.06,46042715
+paid-for,1.0,Whitfield Street,W1T 2RG,6.63,8.06,46036054
+paid-for,2.0,Whitfield Street,W1T 5ET,6.63,8.06,46036143
+paid-for,1.0,Whitfield Street,W1T 5EA,6.63,8.06,46036049
+paid-for,7.0,Whitfield Street,W1T 4DE,6.63,8.06,46036332
+paid-for,4.0,Willes Road,NW5 3AW,3.84,4.65,46045344
+paid-for,3.0,William Road,NW1 3EP,4.83,5.87,46047701
+paid-for / permit holders,1.0,Willoughby Road,NW3 1SD,4.83,5.87,46049016
+paid-for / permit holders,1.0,Willoughby Road,NW3 1SD,4.83,5.87,46049017
+paid-for,1.0,Willoughby Road,NW3 1RG,4.83,5.87,46048760
+paid-for,6.0,Wilmot Place,NW1 9JW,3.84,4.65,46048576
+paid-for,4.0,Wilmot Place,NW1 9JP,3.84,4.65,46048583
+paid-for,5.0,Wilmot Place,NW1 9JP,3.84,4.65,46048580
+paid-for,2.0,Winchester Road,NW3 3NJ,3.84,4.65,46046934
+paid-for,5.0,Winchester Road,NW3 3NT,3.84,4.65,46047283
+paid-for,5.0,Winchester Road,NW3 3NR,3.84,4.65,46134166
+paid-for,2.0,Woburn Place,WC1H 0JZ,6.63,8.06,46128639
+paid-for / permit holders,17.0,Woodchurch Road,NW6 4RB,3.84,4.65,46127551
+paid-for,8.0,Wren Street,WC1X 0HA,6.63,8.06,46131373
+paid-for,4.0,York Rise,NW5 1SP,3.84,4.65,46133677
+paid-for / resident permit holders,10.0,York Rise,NW5 1ST,3.84,4.65,46044733
