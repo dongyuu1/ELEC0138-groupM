@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.1.0, for Win64 (x86_64)
 --
--- Host: localhost    Database: ELEC0138
+-- Host: localhost    Database: elec0138
 -- ------------------------------------------------------
 -- Server version	8.1.0
 
@@ -31,7 +31,7 @@ CREATE TABLE `history` (
   `stay_period` int DEFAULT NULL,
   `number_plate` varchar(30) DEFAULT NULL,
   PRIMARY KEY (`h_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -40,7 +40,7 @@ CREATE TABLE `history` (
 
 LOCK TABLES `history` WRITE;
 /*!40000 ALTER TABLE `history` DISABLE KEYS */;
-INSERT INTO `history` VALUES (1,1,1,'2024-02-20 10:44:00','2024-02-20 11:44:00',3600,'123456');
+INSERT INTO `history` VALUES (1,1,1,'2024-02-20 10:44:00','2024-02-20 11:44:00',3600,'123456'),(3,1,2,'2024-02-21 09:18:11','2024-02-21 11:12:12',6841,'113233'),(4,1,2,'2024-03-21 09:18:11','2024-05-21 11:12:12',5277241,'123233'),(5,1,2,'2024-03-21 09:18:11','2024-06-21 11:12:12',7955641,'123233'),(6,1,2,'2024-02-21 09:18:11','2024-06-21 11:12:12',10461241,'123233'),(7,1,2,'2024-02-21 09:18:11','2024-02-23 11:12:12',179641,'123233'),(8,1,2,'2024-02-21 09:18:11','2024-02-24 11:12:12',266041,'123233'),(9,1,2,'2024-02-21 09:18:11','2024-02-22 11:12:12',93241,'123233');
 /*!40000 ALTER TABLE `history` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -55,8 +55,12 @@ CREATE TABLE `parking` (
   `p_id` int NOT NULL AUTO_INCREMENT,
   `postcode` varchar(30) DEFAULT NULL,
   `street_name` varchar(90) DEFAULT NULL,
+  `max_p` int DEFAULT NULL,
+  `price` float DEFAULT NULL,
+  `latitude` float DEFAULT NULL,
+  `longitude` float DEFAULT NULL,
   PRIMARY KEY (`p_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -65,7 +69,7 @@ CREATE TABLE `parking` (
 
 LOCK TABLES `parking` WRITE;
 /*!40000 ALTER TABLE `parking` DISABLE KEYS */;
-INSERT INTO `parking` VALUES (1,'N1C4BD','Yorkway Street'),(2,'N2C4BD','Gordan Street');
+INSERT INTO `parking` VALUES (1,'N1C4BD','Yorkway Street',100,1.4,10,2.2),(2,'N2C4BD','Gordan Street',4,2.3,12,3.2),(3,'N1C4DD','Gordan street1',120,1.1,8.4,9.6);
 /*!40000 ALTER TABLE `parking` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -86,8 +90,9 @@ CREATE TABLE `user` (
   `email` varchar(30) DEFAULT NULL,
   `address` varchar(90) DEFAULT NULL,
   `billing_address` varchar(90) DEFAULT NULL,
+  `balance` float DEFAULT NULL,
   PRIMARY KEY (`u_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -96,7 +101,7 @@ CREATE TABLE `user` (
 
 LOCK TABLES `user` WRITE;
 /*!40000 ALTER TABLE `user` DISABLE KEYS */;
-INSERT INTO `user` VALUES (1,'Dongyu','Wang','hbbzwdy','8d63tszp','2001-03-17','hbbzwdy@gmail.com','urbanest kings cross','urbanest kings cross'),(2,'Lin','Wang','linwang','123456','2002-03-17','abc@163.com','asdasd','asdasd'),(3,'Lin','Wang','linwang1','123456','2002-03-17','abc1@163.com','asdasd','asdasd');
+INSERT INTO `user` VALUES (1,'Dongyu','Wang','hbbzwdy','8d63tszp','2001-03-17','hbbzwdy@gmail.com','urbanest kings cross','urbanest kings cross',740.829),(2,'Lin','Wang','linwang','123456','2002-03-17','abc@163.com','asdasd','asdasd',100.4),(3,'Lin','Wang','linwang1','123456','2002-03-17','abc1@163.com','asdasd','asdasd',100.4);
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
@@ -109,4 +114,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2024-02-21  9:51:47
+-- Dump completed on 2024-03-02 10:29:54
