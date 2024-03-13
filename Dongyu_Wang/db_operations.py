@@ -73,7 +73,7 @@ class DBOperator:
         :param user_name:  Username
         :param password: Password of the user
         :return: User details: [(u_id, first_name, last_name, user_name, password, date_of_birth,
-                                email, address, billing_address, balance)]
+                                email, street_name, account_balance, postcode)]
         """
         if password is None:
             query = "Select * from user where user_name='{}'".format(user_name)
@@ -89,8 +89,8 @@ class DBOperator:
         """
         Get the details of a user given u_id
         :param u_id: User id
-        :return: User details: [(u_id, first_name, last_name, user_name, password, date_of_birth,
-                                email, address, billing_address, balance)]
+        :return: User details: [((u_id, first_name, last_name, user_name, password, date_of_birth,
+                                email, street_name, account_balance, postcode)]
         """
         query = "Select * from user where u_id = {}".format(u_id)
         results = self.read_query(query)
@@ -110,24 +110,25 @@ class DBOperator:
         """
         # If time_scope is not specified, retrieve the entire history data
         if time_scope is None:
-            query = "select h_id, start_time, end_time, stay_period, number_plate, postcode, street_name " \
-                    "from history left join parking on history.p_id = parking.p_id where u_id={}".format(u_id)
+            query = "select h_id, start_time, end_time, stay_period, total_cost, number_plate, p_postcode, " \
+                    "p_street_name from history left join parking on history.p_id = parking.p_id where u_id={}"\
+                    .format(u_id)
 
         # If beginning time is not specified, retrieve all the history data earlier than end time
         elif time_scope[0] is None and time_scope[1] is not None:
-            query = "select h_id, start_time, end_time, stay_period, number_plate, postcode, street_name " \
-                    "from history left join parking on history.p_id = parking.p_id where u_id={} and " \
+            query = "select h_id, start_time, end_time, stay_period, total_cost, number_plate, p_postcode, " \
+                    "p_street_name from history left join parking on history.p_id = parking.p_id where u_id={} and " \
                     "start_time <= '{}'".format(u_id, time_scope[1])
 
         # If end time is not specified, retrieve all the history data later than beginning time
         elif time_scope[1] is None and time_scope[0] is not None:
-            query = "select h_id, start_time, end_time, stay_period, number_plate, postcode, street_name " \
-                    "from history left join parking on history.p_id = parking.p_id where u_id={} and " \
+            query = "select h_id, start_time, end_time, stay_period, total_cost, number_plate, p_postcode, " \
+                    "p_street_name from history left join parking on history.p_id = parking.p_id where u_id={} and " \
                     "start_time >= '{}'".format(u_id, time_scope[0])
 
         else:
-            query = "select h_id, start_time, end_time, stay_period, number_plate, postcode, street_name " \
-                    "from history left join parking on history.p_id = parking.p_id where u_id={} and " \
+            query = "select h_id, start_time, end_time, stay_period, total_cost, number_plate, p_postcode," \
+                    " p_street_name from history left join parking on history.p_id = parking.p_id where u_id={} and " \
                     "start_time >= '{}' and start_time <= '{}'".format(u_id, time_scope[0], time_scope[1])
 
         results = self.read_query(query)
@@ -140,7 +141,7 @@ class DBOperator:
         :param p_id: Parking lot id
         :return: The boolean value indicting whether the parking not is full or not.
         """
-        max_occupy_query = "select max_p from parking where p_id = {}".format(p_id)
+        max_occupy_query = "select parking_spaces from parking where p_id = {}".format(p_id)
         current_occupy_query = "select count(*) from history where p_id = {} and now()<end_time".format(p_id)
 
         max_occupy = self.read_query(max_occupy_query)[0][0]
@@ -155,8 +156,8 @@ class DBOperator:
                     password: str,
                     date_of_birth: str,
                     email: str,
-                    address: str,
-                    billing_address: str,
+                    street_name: str,
+                    postcode: str
                     ):
         """
         Create a new user
@@ -166,13 +167,13 @@ class DBOperator:
         :param password:  User's password
         :param date_of_birth: User's date of birth
         :param email: User's email
-        :param address: User's address
-        :param billing_address: User's billing address
+        :param street_name: User's address
+        :param postcode: Postcode of the address
         :return: None
         """
-        query = "Insert into user (first_name, last_name, user_name, password, date_of_birth, email, address, " \
-                "billing_address, balance) values ('{}', '{}', '{}', '{}', '{}', '{}', '{}', '{}', 0)" \
-            .format(first_name, last_name, user_name, password, date_of_birth, email, address, billing_address)
+        query = "Insert into user (first_name, last_name, user_name, password, date_of_birth, email, street_name, " \
+                "postcode, account_balance) values ('{}', '{}', '{}', '{}', '{}', '{}', '{}', '{}', 0)" \
+            .format(first_name, last_name, user_name, password, date_of_birth, email, street_name, postcode)
         duplicate_users = self.get_user_details(user_name)
         if len(duplicate_users) > 0:
             print("Failed to create a new user. Duplicated user name found.")
@@ -181,24 +182,26 @@ class DBOperator:
                 print("User created successfully")
 
     def create_parking_lot(self,
+                           p_id,
                            postcode: str,
                            street_name: str,
-                           max_p: int,
-                           price: float,
-                           latitude: float,
-                           longitude: float):
+                           parking_spaces: int,
+                           non_diesel_tariff: float,
+                           diesel_tariff: float,
+                           ):
         """
         Create a new parking lot
+        :param p_id: Unique identifier of a parking lot
         :param postcode: Passcode of the parking lot's position
         :param street_name: Name of street the parking lot is located in
-        :param max_p: Maximum number of cars the parking lot con contain
-        :param price: Price (per hour) of the parking lot
-        :param latitude: Latitude of the parking lot
-        :param longitude: Longitude of the parking lot
+        :param parking_spaces: Maximum number of cars the parking lot con contain
+        :param non_diesel_tariff: Price (per hour) for non_diesel cars
+        :param diesel_tariff: Price (per hour) for diesel cars
         :return: The boolean status indicating whether the creation is successful
         """
-        query = "Insert into parking (postcode, street_name, max_p, price, latitude, longitude) values " \
-                "('{}', '{}', {}, {}, {}, {})".format(postcode, street_name, max_p, price, latitude, longitude)
+        query = "Insert into parking (p_id, p_postcode, p_street_name, parking_spaces, " \
+                "non_diesel_tariff, diesel_tariff) values ({}, '{}', '{}', {}, {}, {})".\
+                format(p_id, postcode, street_name, parking_spaces, non_diesel_tariff, diesel_tariff)
         if self.modify_query(query):
             print("Parking lot created successfully")
             return True
@@ -224,24 +227,26 @@ class DBOperator:
         start_time_obj = datetime.strptime(start_time, '%Y-%m-%d %H:%M:%S')
         end_time_obj = datetime.strptime(end_time, '%Y-%m-%d %H:%M:%S')
         time_diff = int(end_time_obj.timestamp() - start_time_obj.timestamp())
-        query = "Insert into history (u_id, p_id, start_time, end_time, stay_period, number_plate) values " \
-                "({}, {}, '{}', '{}', {}, '{}')".format(u_id, p_id, start_time, end_time, time_diff, number_plate)
-        price_query = "Select price from parking where p_id = {}".format(p_id)
-        balance_query = "Select balance from user where u_id = {}".format(u_id)
+
+        price_query = "Select non_diesel_tariff from parking where p_id = {}".format(p_id)
+        balance_query = "Select account_balance from user where u_id = {}".format(u_id)
         price = self.read_query(price_query)[0][0]
         balance = self.read_query(balance_query)[0][0]
-        total_price = price * (time_diff / 3600)
+        total_cost = price * (time_diff / 3600)
         print(balance)
         if self.is_parking_full(p_id):
             print("The parking lot is full")
             return False
 
-        if balance < total_price:
+        if balance < total_cost:
             print("User's balance is not enough")
             return False
 
+        query = "Insert into history (u_id, p_id, start_time, end_time, stay_period, number_plate, total_cost) values" \
+                " ({}, {}, '{}', '{}', {}, '{}', {})".format(u_id, p_id, start_time, end_time, time_diff, number_plate,
+                                                         total_cost)
         if self.modify_query(query):
-            balance -= total_price
+            balance -= total_cost
             print(balance)
             if self.update_balance(u_id, balance):
                 print("Parking posted successfully")
@@ -258,7 +263,7 @@ class DBOperator:
         :param balance: The value of the new balance
         :return: The boolean status indicating whether the update is successful
         """
-        update_query = "update user set balance = {} where u_id = {}".format(balance, u_id)
+        update_query = "update user set account_balance = {} where u_id = {}".format(balance, u_id)
 
         if self.modify_query(update_query):
             return True
@@ -275,10 +280,10 @@ class DBOperator:
         :return: The boolean status indicating whether the update is successful
         """
         user_info = self.get_user_details_by_id(u_id)
-        user_balance = user_info[0][9]
+        user_balance = user_info[0][8]
         print(user_balance)
         new_balance = user_balance + amount
-        top_up_query = "update user set balance={} where u_id={}".format(new_balance, u_id)
+        top_up_query = "update user set account_balance={} where u_id={}".format(new_balance, u_id)
         if self.modify_query(top_up_query):
             return True
         else:
@@ -323,15 +328,14 @@ class DBOperator:
 
 if __name__ == '__main__':
 
-    db = DBOperator("localhost", "root", "password", "elec0138")
+    db = DBOperator("localhost", "root", "8d63tszp", "elec0138")
     # db.top_up(1, 100)
     # results = db.get_user_details('hbbzwdy', '8d63tszp')
     # print(results)
-    # db.create_user("Lin1", "Wang1", "linwang11", "123456", "2002-03-17", "abc1@163.com", "asdasd", "asdasd")
-    # db.create_parking_lot("N1C4DD", "Gordan street1", 120, 1.1, 8.4, 9.6)
-    # db.post_parking(1, 2, '2024-02-21 09:18:11', '2024-02-22 11:12:12', '123233')
-    # results = db.get_parking_history_of_user(1, ('2024-02-21 08:18:10', '2024-02-21 08:18:11'))
+    # db.create_user("Lin1", "Wang1", "linwang12", "123457", "2002-03-17", "abc1@163.com", "asdasd", "N3C4CC")
+    # db.create_parking_lot(123455, "N1C4DH", "Gordan street11", 20, 1.8, 3.6)
+    # db.post_parking(1, 2, '2024-02-22 09:18:11', '2024-02-24 11:12:12', '123233')
+    # results = db.get_parking_history_of_user(1, ('2024-02-21 08:18:10', '2024-02-24 08:18:11'))
     # print(results)
     # print(db.is_parking_full(2))
-    # db.delete_history_of_a_user(1, ('2024-02-21 08:18:10', '2024-02-21 08:18:11'))add
-    pass
+    # db.delete_history_of_a_user(1, ('2024-02-21 08:18:10', '2024-02-21 08:18:11'))
