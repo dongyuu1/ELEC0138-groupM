@@ -233,7 +233,7 @@ class DBOperator:
         price = self.read_query(price_query)[0][0]
         balance = self.read_query(balance_query)[0][0]
         total_cost = price * (time_diff / 3600)
-        print(balance)
+
         if self.is_parking_full(p_id):
             print("The parking lot is full")
             return False
@@ -247,7 +247,7 @@ class DBOperator:
                                                          total_cost)
         if self.modify_query(query):
             balance -= total_cost
-            print(balance)
+
             if self.update_balance(u_id, balance):
                 print("Parking posted successfully")
                 return True
