@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parking History</title>
+    
+</head>
+<body>
+    <table border="2">
+        <tr>
+            <th>Start Time</th>
+            <th>End Time</th>
+            <th>Stay Period</th>
+            <th>Plate Number</th>
+            <th>Cost</th>
+        </tr>
+        <tr>
+            {% for data in history %}
+            <td>{{ data['start_time'] }}</td>
+            <td>{{ data['end_time'] }}</td>
+            <td>{{ data['stay_period'] }}</td>
+            <td>{{ data['number_plate'] }}</td>
+            <td>{{ data['total_cost'] }}</td>
+            {% endfor %}
+        </tr>
+    </table>
+</body>
+</html>
