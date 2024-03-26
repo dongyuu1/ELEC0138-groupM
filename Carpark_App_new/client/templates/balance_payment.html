@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Balance Payment</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 500px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+        .balance {
+            font-size: 24px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .top-up-form {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .top-up-input {
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-right: 10px;
+        }
+        .top-up-button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .top-up-button:hover {
+            background-color: #0056b3;
+        }
+        .confirm-button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background-color: #28a745;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+        .confirm-button:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Balance Payment</h2>
+        <div class="balance">
+            Current Balance: {{ balance }}
+        </div>
+        <form action="/balance_payment" method="post">
+            <input type="number" name="top_up_amount" placeholder="Enter amount to top up" required>
+            <button type="submit">Top Up</button>
+        </form>
+        <form action="/parking_view" method="post">
+            <button type="submit">Confirm Payment</button>
+        </form>
+    </div>
+</body>
+</html>
