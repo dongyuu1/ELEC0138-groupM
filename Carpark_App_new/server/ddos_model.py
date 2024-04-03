@@ -9,7 +9,7 @@ from sklearn.svm import SVC
 from sklearn.linear_model import LogisticRegression
 import pickle
 import os
-
+import random
 
 def train_model():
     #if os.path.exists("ddos_model.pickle") and os.path.exists("scaler.pickle"):
@@ -41,10 +41,8 @@ def train_model():
 def preprocess_data(df, imputer):
     df = df.join(pd.get_dummies(df.Protocol))
     labels = np.array(df["label"])
-    input_df = df.drop(["src", "dst", "dt", "switch", "Protocol", "label", "dur_nsec","tot_dur", "flows", "packetins","pktperflow",
-                        "byteperflow","pktrate","Pairflow","port_no","tx_bytes","rx_bytes","tx_kbps", "rx_kbps",
-                        "tot_kbps"], axis=1).astype("float64")
-    print(input_df)
+    input_df = df[["pktcount", "bytecount", "dur", "ICMP", "TCP", "UDP"]].astype("float64")
+
     inputs = imputer.fit_transform(input_df)
 
     x_train, x_test, y_train, y_test = train_test_split(inputs, labels, test_size=0.25)
@@ -67,6 +65,8 @@ def detect_ddos(input):
 
 
 if __name__ == '__main__':
+    random.seed(0)
+    np.random.seed(0)
     train_model()
     #simulated_data = np.random.rand(1, 18) # batch_size * number of features
     #pred = detect_ddos(simulated_data)
