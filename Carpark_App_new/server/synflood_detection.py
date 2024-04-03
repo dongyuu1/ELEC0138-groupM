@@ -19,7 +19,7 @@ if os.path.exists("blocked_ip.txt"):
         block_set.add(line.strip("\n"))
         if not line:
             break
-
+self_ip = input("Please enter your ip address:")
 log_file = open('blocked_ip.txt', 'a+')
 
 
@@ -27,12 +27,13 @@ def CallBack(packet):
     global ip_dict
     global block_set
     global latest_show_time
+    global self_ip
 
     if "IP" not in packet:
         return
 
     src = packet["IP"].src
-    if src == "172.16.1.101":
+    if src == self_ip:
         return
     if src in block_set:
         print("The packet from " + src + " is blocked")
