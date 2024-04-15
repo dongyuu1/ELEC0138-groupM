@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
-from sklearn.impute import SimpleImputer
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix, accuracy_score
 from sklearn.neighbors import KNeighborsClassifier
@@ -18,9 +17,8 @@ def train_model():
 
     clf = KNeighborsClassifier()
     scaler = MinMaxScaler()
-    imputer = SimpleImputer(missing_values=np.nan, strategy='most_frequent')
     data_df = pd.read_csv("dataset_sdn.csv")
-    x_train, x_test, y_train, y_test = preprocess_data(data_df, imputer)
+    x_train, x_test, y_train, y_test = preprocess_data(data_df)
 
     print("Training model for Ddos detection")
     clf.fit(scaler.fit_transform(x_train), y_train)
@@ -38,7 +36,7 @@ def train_model():
     print("Scaler is saved at ./scaler.pickle")
 
 
-def preprocess_data(df, imputer):
+def preprocess_data(df):
     df = df.join(pd.get_dummies(df.Protocol))
     labels = np.array(df["label"])
     input_df = df[["pktcount", "bytecount", "dur", "ICMP", "TCP", "UDP"]].astype("float64")
