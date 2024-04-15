@@ -3,6 +3,7 @@ import time
 import numpy as np
 import pickle
 import collections
+import argparse
 
 Traffic = collections.namedtuple("Traffic", ["pkt_count", "byte_count"])
 ip_dict = {}
@@ -19,7 +20,10 @@ if os.path.exists("blocked_ip.txt"):
         block_set.add(line.strip("\n"))
         if not line:
             break
-self_ip = input("Please enter your ip address:")
+parser = argparse.ArgumentParser()
+parser.add_argument("--self_ip", type=str, help="The ip address of the local host")
+args = parser.parse_args()
+self_ip = args.self_ip
 log_file = open('blocked_ip.txt', 'a+')
 
 
