@@ -1,0 +1,20 @@
+
+To initiate the synflood attack, navigate to the client folder and use the following command:
+-----------------------------------
+python synflood_attack.py --dst the target_ip_address --dos 1 --ipnum 5
+-----------------------------------
+The dst is the destination ip address, the dos means whether to perform ddos attack (1:dos 0:ddos), and the ipnum indicates the
+number of ip addresses used in ddos.
+
+To perform the synflood detection, navigate to the server folder and run the following command:
+-----------------------------------
+python synflood_detection.py --self_ip ip_of_your_host
+-----------------------------------
+Please input the ip address of your host on the terminal to prevent it from being misblocked.
+
+
+We have saved the well-trained machine learning model in the server folder, but if you want to train it from scratch, 
+please run the following command in the server folder:
+-----------------------------------
+python ddos_model.py
+-----------------------------------
