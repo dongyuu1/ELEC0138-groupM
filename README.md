@@ -44,4 +44,4 @@ To launch the Carpark App, please run:
 python main.py
 ```
 
-To perform different kinds of attacks & defenses please refer to the readme files in the folder ./Carpark_App_new
+To perform different kinds of attacks & defenses please refer to the readme files SQL_Injection.txt and Synflood_attack&detection.txt in the folder ./Carpark_App_new.
