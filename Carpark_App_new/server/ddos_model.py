@@ -41,9 +41,7 @@ def preprocess_data(df):
     labels = np.array(df["label"])
     input_df = df[["pktcount", "bytecount", "dur", "ICMP", "TCP", "UDP"]].astype("float64")
 
-    inputs = imputer.fit_transform(input_df)
-
-    x_train, x_test, y_train, y_test = train_test_split(inputs, labels, test_size=0.25)
+    x_train, x_test, y_train, y_test = train_test_split(input_df, labels, test_size=0.25)
     return x_train, x_test, y_train, y_test
 
 
